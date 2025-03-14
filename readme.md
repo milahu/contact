@@ -116,6 +116,8 @@ offline-first private p2p chat
 
 ## email
 
+- milahu@gmail.com
+- milahu@protonmail.com
 - milahu450@gmail.com
 
 
@@ -124,8 +126,6 @@ offline-first private p2p chat
 
 status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
-- milahu@gmail.com
-- milahu@protonmail.com
 - milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
 
 ## XMPP
@@ -162,13 +162,13 @@ status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 feel free to create new issues on my git repos
 
+- [github.com/milahu](https://github.com/milahu)
 - [darktea.onion/milahu5](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu5)
 
 ### gone
 
 status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
-- [github.com/milahu](https://github.com/milahu)
 - [darktea.onion/milahu](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu)
 - [righttoprivacy.onion/milahu](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu)
 
