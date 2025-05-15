@@ -152,6 +152,8 @@ status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 chat over tor
 
+- ricochet:milahuuui4wn6cp37ayx46nl2k2d67tsstaq3v35kjb4xyzxcwlqwjad
+
 ### gone
 
 status: gone since [prison 2024-12-09](#prison-2024-12-09)
