@@ -253,6 +253,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - smartphone
   - https://geizhals.de/?cat=umtsover&xf=148_Android~157_131072~18414_3.5mm+Klinke~18414_USB-C~19410_8~2607_8192~3287_wechselbar&sort=eintr&hloc=at&hloc=de&v=e&pg=1
   - battery: removable
+    - TODO verify datasheet, dont trust geizhals.de
   - waterproof
   - RAM: 8GB more
   - internal storage: 128GB or more
