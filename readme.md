@@ -234,12 +234,13 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - must be new, used printers have limited lifetime and no warranty
   - ebay: from 200 eur
   - ebay: no toner and drum: 140 eur
-  - toner: Brother TN-3480 compatible
-    - https://www.ebay.de/itm/365089200917 - 8x TN-3480 - 90 EUR
-    - https://www.ebay.de/itm/365073553508 - 8x TN-3480 - 95 EUR
-    - https://www.ebay.de/itm/365061927883 - 8x TN-3480 - 100 EUR
-  - drums: Brother DR-3400 compatible
-    - https://www.ebay.de/itm/365086190360 - 8x DR-3400 - 120 EUR
+  - toner: [Brother TN-3480 compatible](https://www.ebay.de/sch/i.html?_nkw=10x+TN-3480+kompatibel&_sacat=0&_from=R40&_trksid=m570.l1313&_udlo=80&rt=nc&_odkw=TN-3480+kompatibel&_osacat=0)
+    - [seller: temquilifyh](https://www.ebay.de/sch/i.html?_ssn=temquilifyh&store_name=temquilifyh&_nkw=10x%20tn3480) - 10x TN-3480 - 95 EUR
+    - [seller: blossomdruckzubehor](https://www.ebay.de/sch/i.html?_ssn=astblossom-4&store_name=blossomdruckzubehor&_nkw=10x%20tn3480) - 10x TN-3480 - 95 EUR
+    - [seller: toner-ink-express](https://www.ebay.de/sch/i.html?_ssn=toner-ink-express&store_name=tonerinkexpress01&_nkw=8x%20tn-3480) - 8x TN-3480 - 90 EUR
+  - drums: [Brother DR-3400 compatible](https://www.ebay.de/sch/i.html?_nkw=4x+dr3400+kompatibel+-toner&_sacat=0&_from=R40&_trksid=m570.l1313&_odkw=dr3400+kompatibel+-toner+4x&_osacat=0&_udhi=60)
+    - [seller: iprintenter](https://www.ebay.de/sch/i.html?_ssn=iprintenter&store_name=iprintenter&_nkw=4x%20dr-3400) - 4x DR-3400 - 56 EUR
+    - [seller: temquilifyh](https://www.ebay.de/sch/i.html?_ssn=temquilifyh&store_name=temquilifyh&_nkw=4x%20dr-3400) - 4x DR-3400 - 57 EUR
   - toner and drums: different vendors have different bulk package sizes
 - paper: DIN A4, 70g/m2
   - Kopierpapier A4 BASIC PRO
