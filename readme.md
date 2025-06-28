@@ -249,6 +249,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://www.ebay.de/itm/364613970749 - 202E / 25K = 0,339 EUR/book
     - https://www.ebay.de/itm/364613985003 - 82E / 10K = 0,344 EUR/book
 - books
+  - i dont read books but... at least i would look smart if i had more books in my home...
   - https://www.goodreads.com/review/list/158844759?shelf=to-read
 - smartphone
   - https://geizhals.de/?cat=umtsover&xf=148_Android~157_131072~18414_3.5mm+Klinke~18414_USB-C~19410_8~2607_8192~3287_wechselbar&sort=eintr&hloc=at&hloc=de&v=e&pg=1
@@ -257,27 +258,44 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - waterproof
   - RAM: 8GB more
   - internal storage: 128GB or more
-  - OS: android (or linux)
+  - OS: android (or linux) (ideally a device with open-source drivers, firmware, hardware... aka "military grade security")
   - color: black or grey
   - ports: USB-C, 3.5mm audio jack
 - laptop
-  - brand: Lenovo
-  - CPU: AMD Ryzen 6C/12T
+  - brand: Lenovo Legion
+  - CPU: AMD Ryzen 6C/12T or AMD Ryzen 8C/16T (mostly for compiling programs, not for gaming)
+  - RAM: 16GB or 32GB
+  - SSD: 512GB or more
   - maybe dedicated GPU with large VRAM (12GB?) for AI inference and training
+  - used from 400 EUR
 - desktop PC
-  - CPU: AMD Ryzen 6C/12T or 8C/16T
+  - CPU: AMD Ryzen 6C/12T or AMD Ryzen 8C/16T
   - RAM: 16GB or 32GB
   - dedicated GPU with large VRAM (12GB?) for AI inference and training
   - PSU: be quiet
+  - i prefer laptops for their lower power draw, i dont need the computing power of a desktop PC
 - NAS server
   - low power, lower than laptop, lower than desktop
-  - 2x 8TB seagate barracuda compute 5400rpm
-    - quiet
-    - more storage than 1TB at feralhosting.com
+  - 2x [Seagate SkyHawk AI +Rescue 24TB](https://geizhals.de/seagate-skyhawk-ai-rescue-24tb-st24000ve002-a3120777.html) (420 EUR)
   - bittorrent client rqbit
   - RAM: 16GB or 32GB
   - CPU: AMD Ryzen 4C/8T
-  - can saturate my residential fiber FTTH internet connection with 1000 Mbitps
+  - can saturate my residential fiber FTTH internet connection with 1000 Mbitps (which will be installed around year 2027... maybe)
+    (until then i only have a 100+40 Mbitps VDSL internet connection with only 40 Mbitps uplink)
+- USB sticks
+  - useful for linux live distros (tails linux, nixos-tails, ...)
+  - [SanDisk Ultra Fit](https://geizhals.de/?cat=sm_usb&asuch=SanDisk+Ultra+Fit&v=e&hloc=at&hloc=de&sort=r&bl1_id=30&xf=21106_256)
+    - [SanDisk Ultra Fit 256GB](https://geizhals.de/sandisk-ultra-fit-256gb-sdcz430-256g-g46-a1756560.html) (10 EUR)
+    - [SanDisk Ultra Fit 512GB](https://geizhals.de/sandisk-ultra-fit-512gb-sdcz430-512g-g46-a2221037.html) (20 EUR)
+    - [SanDisk Ultra Fit 1TB](https://geizhals.de/sandisk-ultra-fit-1tb-sdcz430-1t00-g46-a3301288.html) (40 EUR)
+- cables
+  - Audiokabel, 3,5mm Klinke gewinkelt, 2x Cinch gerade, 5m
+    - [Audiokabel, Good Connections, 3,5mm Klinke gewinkelt, 2x Cinch gerade, 5m](https://geizhals.de/good-connections-3-5mm-klinke-gewinkelt-composite-audio-kabel-gerade-5m-gc-m0067-a1744435.html) (5 EUR)
+    - [Audiokabel, SHIVERPEAKS SHVP 30845, 3,5mm Klinke gewinkelt, 2x Cinch gerade, 5m](https://geizhals.de/1223083985) (8 EUR)
+    - [Audiokabel, Cordial EY 5 WRCC, 3,5mm Klinke gewinkelt, 2x Cinch gerade, 5m](https://geizhals.de/cordial-ey-5-wrcc-14861-a2598396.html) (10 EUR)
+  - Routeranschlusskabel, 0,5m, ungeschirmt (TODO [TAE Kabel geschirmt](https://telekomhilft.telekom.de/conversations/festnetz-internet/kabelabschirmung-zu-fritz-box-dsl-router-aus-der-tae-dose/668988614ae73561dada619e))
+    - [SHIVERPEAKS, TAE-F Stecker, RJ45 Stecker, schwarz, 0,5m](https://www.reichelt.de/de/de/shop/produkt/tae-f_stecker_auf_rj45_stecker_schwarz_0_5m-317042) (3 EUR)
+    - [SHIVERPEAKS, TAE-F Stecker, RJ45 Stecker, weiß, 0,5m](https://www.reichelt.de/de/de/shop/produkt/tae-f_stecker_auf_rj45_stecker_weiss_0_5m-317043) (3 EUR)
 
 ## censored
 
@@ -292,6 +310,9 @@ but i hope that they do not censor all of my contact channels
 
 like i said...
 im in prison again since 2024-12-09
+
+update: i was released from prison on 2025-04-16.
+so was in prison for 4 months for distributing my book in a "public" school to children
 
 see also
 
