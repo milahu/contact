@@ -17,28 +17,7 @@ before you send anything big or expensive,
 please ask if i am still alive,
 and please ask if i want or need it (i hate surprises)
 
-### wasserburg gabersee
-
-status: here because [prison 2024-12-09](#prison-2024-12-09)
-
-note:
-the clinic is sabotaging my communication.
-untracked letters disappear again and again.
-if you really want to reach me,
-send a tracked letter
-(german: einschreiben mit rückschein)
-
-```
-Milan Hauth
-Inn Salzach Klinik
-Gabersee 7
-83512 Wasserburg
-Germany
-```
-
 ### trostberg jägerstr
-
-status: away because [prison 2024-12-09](#prison-2024-12-09)
 
 ```
 Milan Hauth
@@ -60,10 +39,6 @@ if you see my face in public, feel free to say "hey mila!"
 worst method for my taste.
 im a writer, not a talker.
 i will ignore most calls.
-
-### wasserburg gabersee KS2
-
-+498071718119
 
 
 
@@ -200,12 +175,8 @@ status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 ## services
 
-### gone
-
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
 - [github.com/milahu/deutschetorrents](https://github.com/milahu/deutschetorrents) - german torrents
-- [erebus.feralhosting.com/milahu/bin/get-subtitles](https://erebus.feralhosting.com/milahu/bin/get-subtitles) - download subtitles
+- [milahu.duckdns.org/bin/get-subtitles](http://milahu.duckdns.org/bin/get-subtitles) - download subtitles
 
 ## donate
 
