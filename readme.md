@@ -268,6 +268,11 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - SSD: 512GB or more
   - maybe dedicated GPU with large VRAM (12GB?) for AI inference and training
   - used from 400 EUR
+  - external HDD case: [AXAGON Aline Box Festplattengehäuse, schwarz, 3.5", USB-B 3.0](https://geizhals.de/axagon-aline-box-ee35-xa3-a2606458.html) - 20 EUR
+    - SATA 2 = 3 Gbitps = fast enough for HDD drives (SSD drives are too expensive, 4x more expensive than HDD)
+    - typical CMR HDD sequential read speeds are around [200 to 300 MB/s](https://www.tomshardware.com/features/hdd-benchmarks-hierarchy) = 1.6 to 2.4 Gbit/s
+    - SATA 3 cases are more expensive: [AXAGON Ribbed Box Festplattengehäuse, schwarz, 3.5", USB-C 3.0](https://geizhals.de/axagon-ribbed-box-festplattengehaeuse-ee35-gtr-a3317327.html) - 30 EUR
+    - this USB to SATA adapter has no HDD size limitation, unlike many others
 - desktop PC
   - CPU: AMD Ryzen 6C/12T or AMD Ryzen 8C/16T
   - RAM: 16GB or 32GB
@@ -296,6 +301,12 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - Routeranschlusskabel, 0,5m, ungeschirmt (TODO [TAE Kabel geschirmt](https://telekomhilft.telekom.de/conversations/festnetz-internet/kabelabschirmung-zu-fritz-box-dsl-router-aus-der-tae-dose/668988614ae73561dada619e))
     - [SHIVERPEAKS, TAE-F Stecker, RJ45 Stecker, schwarz, 0,5m](https://www.reichelt.de/de/de/shop/produkt/tae-f_stecker_auf_rj45_stecker_schwarz_0_5m-317042) (3 EUR)
     - [SHIVERPEAKS, TAE-F Stecker, RJ45 Stecker, weiß, 0,5m](https://www.reichelt.de/de/de/shop/produkt/tae-f_stecker_auf_rj45_stecker_weiss_0_5m-317043) (3 EUR)
+- audio speakers
+  - [Logitech Z533, 60 Watt RMS, 2.1 Channel](https://geizhals.de/logitech-z533-schwarz-980-001054-a1298701.html) - 90 EUR
+- FTTH fiber internet connection, 1000 Mbitps download, 500 Mbitps upload
+  - this is not available in my home until year 2027 (i guess SHTF comes before 2027...)
+    so this connection has to be in someone else's home, where i can house my server (homeserver, selfhosting, p2p, bittorrent, http, nas)
+- USB mouse: [Cherry GENTIX Silent](https://geizhals.de/cherry-gentix-silent-schwarz-jm-0310-2-a1711766.html)
 
 ## censored
 
