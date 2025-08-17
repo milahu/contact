@@ -279,6 +279,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     so this connection has to be in someone else's home, where i can house my server (homeserver, selfhosting, p2p, bittorrent, http, nas)
 - USB mouse: [Cherry GENTIX Silent](https://geizhals.de/cherry-gentix-silent-schwarz-jm-0310-2-a1711766.html)
 - paper folders: [100 Esselte Aktenmappe, DIN A4, aus Karton, farbig sortiert](https://www.ebay.de/itm/277233997630) - 60 EUR
+- shelf: [Shelf Creations Basic Steckregal 180x100x60cm verzinkt](https://www.ebay.de/itm/373237863733) - 80 EUR - 4x 6 mm MDF boards
 
 ## censored
 
