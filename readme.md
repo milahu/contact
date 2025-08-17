@@ -278,6 +278,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - this is not available in my home until year 2027 (i guess SHTF comes before 2027...)
     so this connection has to be in someone else's home, where i can house my server (homeserver, selfhosting, p2p, bittorrent, http, nas)
 - USB mouse: [Cherry GENTIX Silent](https://geizhals.de/cherry-gentix-silent-schwarz-jm-0310-2-a1711766.html)
+- paper folders: [100 Esselte Aktenmappe, DIN A4, aus Karton, farbig sortiert](https://www.ebay.de/itm/277233997630) - 60 EUR
 
 ## censored
 
