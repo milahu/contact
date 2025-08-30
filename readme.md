@@ -234,30 +234,40 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - ports: USB-C, 3.5mm audio jack
 - laptop
   - brand: Lenovo Legion
-  - CPU: AMD Ryzen 6C/12T or AMD Ryzen 8C/16T (mostly for compiling programs, not for gaming)
-  - RAM: 16GB or 32GB
+  - CPU:
+    - AMD Ryzen 5 5600H 6C/12T
+    - AMD Ryzen 7 4800H 8C/16T
+  - RAM: 32GB (16GB is not enough)
+    - 32GB DDR4-3200 RAM kits:
+      - [G.Skill RipJaws SO-DIMM 32GB Kit, DDR4-3200, CL22-22-22](https://geizhals.de/g-skill-ripjaws-so-dimm-kit-32gb-f4-3200c22d-32grs-a2349373.html) - 80 EUR
+      - [Crucial SO-DIMM 32GB Kit, DDR4-3200, CL22-22-22](https://geizhals.de/crucial-so-dimm-kit-32gb-ct2k16g4sfra32a-a2326324.html) - 80 EUR
   - SSD: 512GB or more
-  - maybe dedicated GPU with large VRAM (12GB?) for AI inference and training
-  - used from 400 EUR
+  - dedicated GPU with large VRAM (8GB or more) for AI inference: RTX 3070 (RTX 3080, RTX 4060, RTX 4070, RTX 4080, RTX 4090, ...)
+  - used from 700 EUR ([ebay.de](https://www.ebay.de/sch/177/i.html?_nkw=Lenovo+Legion+RTX+%223070%22&_from=R40&_sop=15))
   - external HDD case: [AXAGON Aline Box Festplattengehäuse, schwarz, 3.5", USB-B 3.0](https://geizhals.de/axagon-aline-box-ee35-xa3-a2606458.html) - 20 EUR
     - SATA 2 = 3 Gbitps = fast enough for HDD drives (SSD drives are too expensive, 4x more expensive than HDD)
     - typical CMR HDD sequential read speeds are around [200 to 300 MB/s](https://www.tomshardware.com/features/hdd-benchmarks-hierarchy) = 1.6 to 2.4 Gbit/s
     - SATA 3 cases are more expensive: [AXAGON Ribbed Box Festplattengehäuse, schwarz, 3.5", USB-C 3.0](https://geizhals.de/axagon-ribbed-box-festplattengehaeuse-ee35-gtr-a3317327.html) - 30 EUR
     - this USB to SATA adapter has no HDD size limitation, unlike many others
 - desktop PC
-  - CPU: AMD Ryzen 6C/12T or AMD Ryzen 8C/16T
-  - RAM: 16GB or 32GB
-  - dedicated GPU with large VRAM (12GB?) for AI inference and training
+  - CPU: 6C/12T or 8C/16T: AMD Ryzen, ...
+  - RAM: 32GB
+  - dedicated GPU with large VRAM (8GB or more) for AI inference and training
   - PSU: be quiet
   - i prefer laptops for their lower power draw, i dont need the computing power of a desktop PC
 - NAS server
   - low power, lower than laptop, lower than desktop
   - 2x [Seagate SkyHawk AI +Rescue 24TB](https://geizhals.de/seagate-skyhawk-ai-rescue-24tb-st24000ve002-a3120777.html) (420 EUR)
   - bittorrent client rqbit
-  - RAM: 16GB or 32GB
+  - RAM: 32GB
   - CPU: AMD Ryzen 4C/8T
   - can saturate my residential fiber FTTH internet connection with 1000 Mbitps (which will be installed around year 2027... maybe)
     (until then i only have a 100+40 Mbitps VDSL internet connection with only 40 Mbitps uplink)
+  - maybe: [Synology DiskStation DS723+, 32GB RAM, 2x Gb LAN](https://geizhals.de/synology-diskstation-ds723-a2876460.html)
+    - RAM: 32GB
+    - Intern: 2x 2.5"/3.5" SATA 6Gb/s (Hot-Swap)
+    - RAID-Level: 0/​1/​5/​6/​10/​JBOD
+    - CPU: AMD Ryzen Embedded R1600, 2C/4T, 2.60-3.10GHz, 4MiB+1MiB Cache, 15W TDP, 12-25W cTDP, Codename "Banded Kestrel (Raven2)" (Zen, GF 14nm)
 - USB sticks
   - useful for linux live distros (tails linux, nixos-tails, ...)
   - [SanDisk Ultra Fit](https://geizhals.de/?cat=sm_usb&asuch=SanDisk+Ultra+Fit&v=e&hloc=at&hloc=de&sort=r&bl1_id=30&xf=21106_256)
