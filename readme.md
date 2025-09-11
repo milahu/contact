@@ -217,10 +217,21 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - Kopierpapier A4 BASIC PRO
     - https://www.ebay.de/itm/364613935032 - 739EUR / 100K = 0,310 EUR/book
     - https://www.ebay.de/itm/364613940701 - 379EUR / 50K = 0,318 EUR/book
-    - https://www.ebay.de/itm/364613970749 - 202E / 25K = 0,339 EUR/book
-    - https://www.ebay.de/itm/364613985003 - 82E / 10K = 0,344 EUR/book
+    - https://www.ebay.de/itm/364613970749 - 202EUR / 25K = 0,339 EUR/book
+    - https://www.ebay.de/itm/364613985003 - 82EUR / 10K = 0,344 EUR/book
+- envelopes for DIN C4 letters with 2cm height
+  - [300 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/364082318677) - 50 EUR
+  - [500 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/185701931365) - 70 EUR
+  - [1.000 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/404058621949) - 125 EUR
+- cardboard boxes for DIN C4 letters
+  - [50 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624587009741) - 40 EUR
+  - [125 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624586970265) - 72 EUR
+- post stamps
+  - [Markenbox "Raketenpost", Briefmarke zu 1,80 €, 100er-Box](https://shop.deutschepost.de/markenbox-raketenpost-briefmarke-zu-1-80-eur-100er-box) - 180 EUR
 - books
   - i dont read books but... at least i would look smart if i had more books in my home...
+  - ... but i can scan "interesting" books with my ADF scanner ([Brother ADS-3000N](https://geizhals.de/brother-imagecenter-ads-3000n-ads3000nux1-a1375507.html))
+    and create near-lossless (printable) PDF files for libgen and annas-archive.org
   - https://www.goodreads.com/review/list/158844759?shelf=to-read
 - smartphone
   - https://geizhals.de/?cat=umtsover&xf=148_Android~157_131072~18414_3.5mm+Klinke~18414_USB-C~19410_8~2607_8192~3287_wechselbar&sort=eintr&hloc=at&hloc=de&v=e&pg=1
