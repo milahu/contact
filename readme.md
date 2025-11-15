@@ -299,8 +299,19 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - this is not available in my home until year 2027 (i guess SHTF comes before 2027...)
     so this connection has to be in someone else's home, where i can house my server (homeserver, selfhosting, p2p, bittorrent, http, nas)
 - USB mouse: [Cherry GENTIX Silent](https://geizhals.de/cherry-gentix-silent-schwarz-jm-0310-2-a1711766.html)
-- paper folders: [100 Esselte Aktenmappe, DIN A4, aus Karton, farbig sortiert](https://www.ebay.de/itm/277233997630) - 60 EUR
 - shelf: [Shelf Creations Basic Steckregal 180x100x60cm verzinkt](https://www.ebay.de/itm/373237863733) - 80 EUR - 4x 6 mm MDF boards
+- phone: https://pine64.org/devices/pinephone/
+  - https://pine64.com/product/pinephone-beta-edition-with-convergence-package/ - 200 usd
+- winter jacket: Condor Summit Softshell - black - XL
+  - https://condoroutdoor.com/products/condor-summit-tactical-softshell-jacket?variant=44504186978455 - 130 usd
+- scarf: beechfield morf original - https://beechfield.com/products/b900-morfr-original - black
+- winter scarf: beechfield morf suprafleece - https://beechfield.com/products/b920-morfr-suprafleecer - black
+- winter gloves
+  - https://www.ebay.de/itm/172876817969?var=471655693818 - brown - XL - 25 eur
+- hard drives
+  - https://geizhals.de/seagate-skyhawk-ai-rescue-24tb-st24000ve002-a3120777.html - 24 TB - 520 eur
+- usb hub: 7 port, USB-A plug
+  - https://geizhals.de/digitus-office-hub-da-70241-1-a2447896.html - 30 eur
 
 ## censored
 
