@@ -177,6 +177,8 @@ status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 - [github.com/milahu/deutschetorrents](https://github.com/milahu/deutschetorrents) - german torrents
 - [milahu.duckdns.org/bin/get-subtitles](http://milahu.duckdns.org/bin/get-subtitles) - download subtitles
+- [github.com/milahu/books](https://github.com/milahu/books) - books on the topic of selforganization
+- [Druckservice, Scanservice, Kopierservice](https://www.kleinanzeigen.de/s-anzeige/druckservice-scanservice-kopierservice/3224921804-401-5698)
 
 ## donate
 
@@ -199,12 +201,11 @@ status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 before you send anything, please ask if my [offline](#offline) address is up to date
 
-stuff i always need
+### stuff i always need
 
 - printer: [Brother HL-L5100DN](https://geizhals.de/brother-hl-l5100dn-hll5100dng1-a1409933.html)
   - must be new, used printers have limited lifetime and no warranty
-  - ebay: from 200 eur
-  - ebay: no toner and drum: 140 eur
+  - new: about 420 eur (inflation!)
   - toner: [Brother TN-3480 compatible](https://www.ebay.de/sch/i.html?_nkw=10x+TN-3480+kompatibel&_sacat=0&_from=R40&_trksid=m570.l1313&_udlo=80&rt=nc&_odkw=TN-3480+kompatibel&_osacat=0)
     - [seller: temquilifyh](https://www.ebay.de/sch/i.html?_ssn=temquilifyh&store_name=temquilifyh&_nkw=8x%20tn3480) - 8x TN-3480 - 75 EUR
     - [seller: blossomdruckzubehor](https://www.ebay.de/sch/i.html?_ssn=astblossom-4&store_name=blossomdruckzubehor&_nkw=8x%20tn3480) - 8x TN-3480 - 75 EUR
@@ -215,23 +216,23 @@ stuff i always need
   - toner and drums: different vendors have different bulk package sizes
 - paper: DIN A4, 70g/m2
   - Kopierpapier A4 BASIC PRO
-    - https://www.ebay.de/itm/364613935032 - 739EUR / 100K = 0,310 EUR/book
-    - https://www.ebay.de/itm/364613940701 - 379EUR / 50K = 0,318 EUR/book
-    - https://www.ebay.de/itm/364613970749 - 202EUR / 25K = 0,339 EUR/book
-    - https://www.ebay.de/itm/364613985003 - 82EUR / 10K = 0,344 EUR/book
+    - https://kopierpapieronline.de/p/kopierpapier-go-copy-basic-pro-100-000-blatt-70g-weiss-1-palette-hoher-weissegrad-zuverlaessig-und-gut - 600 EUR / 100K
+    - https://kopierpapieronline.de/p/kopierpapier-go-copy-basic-pro-50-000-blatt-70g-weiss-1-2-palette-hoher-weissegrad-zuverlaessig-und-gut - 310 EUR / 50K
 - envelopes for DIN C4 letters with 2cm height
-  - [300 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/364082318677) - 50 EUR
   - [500 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/185701931365) - 70 EUR
   - [1.000 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/404058621949) - 125 EUR
-- cardboard boxes for DIN C4 letters
-  - [50 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624587009741) - 40 EUR
-  - [125 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624586970265) - 72 EUR
 - post stamps
   - [Markenbox "Raketenpost", Briefmarke zu 1,80 €, 100er-Box](https://shop.deutschepost.de/markenbox-raketenpost-briefmarke-zu-1-80-eur-100er-box) - 180 EUR
 - labels
   - [Etiketten Bögen weiß auf DIN A4 selbstklebend von Etkettenworld BV EW1-EW21 - 105 x 57 mm](https://www.ebay.de/itm/151894265732?var=451083662681) - 10 EUR
 
-stuff i rarely need
+<!--
+- cardboard boxes for DIN C4 letters
+  - [50 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624587009741) - 40 EUR
+  - [125 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624586970265) - 72 EUR
+-->
+
+### stuff i rarely need
 
 - books
   - i dont read books but... at least i would look smart if i had more books in my home...
@@ -317,6 +318,22 @@ stuff i rarely need
   - https://geizhals.de/seagate-skyhawk-ai-rescue-24tb-st24000ve002-a3120777.html - 24 TB - 520 eur
 - usb hub: 7 port, USB-A plug
   - https://geizhals.de/digitus-office-hub-da-70241-1-a2447896.html - 30 eur
+
+### expensive stuff
+
+for the billionaires who want to support my work...
+
+- [Konica Minolta AccurioPress 7136 / 7136P / 7120](https://www.konicaminolta.eu/eu-en/professional-printing/devices/production-printing/accuriopress-7136-series) - about 10000 EUR
+  - todo: can this produce stapled booklets without folding?
+    or can this produce stapled blocks with two staples in the middle of the sheet?
+    currently, stapling is the main bottleneck in my workflow
+  - probably i would also need a new appartment (or house) for this...
+    my current appartment has no elevator, and i dont believe such a large machine can be transported through my stairway.
+    generally, for high-volume logistics, a first floor appartment/house/garage (no stairs) would be ideal.
+    ideally the appartment/house/garage should be near to a Konica Minolta service location
+    (servicing such large machines is not trivial, so there are only a few service locations, mostly near large cities)
+- palettes of paper, toner, drums, envelopes, ...
+- millions of post stamps, ...
 
 ## censored
 
