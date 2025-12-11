@@ -197,9 +197,9 @@ status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 ## wishlist
 
-stuff i always need
-
 before you send anything, please ask if my [offline](#offline) address is up to date
+
+stuff i always need
 
 - printer: [Brother HL-L5100DN](https://geizhals.de/brother-hl-l5100dn-hll5100dng1-a1409933.html)
   - must be new, used printers have limited lifetime and no warranty
@@ -228,6 +228,11 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [125 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624586970265) - 72 EUR
 - post stamps
   - [Markenbox "Raketenpost", Briefmarke zu 1,80 €, 100er-Box](https://shop.deutschepost.de/markenbox-raketenpost-briefmarke-zu-1-80-eur-100er-box) - 180 EUR
+- labels
+  - [Etiketten Bögen weiß auf DIN A4 selbstklebend von Etkettenworld BV EW1-EW21 - 105 x 57 mm](https://www.ebay.de/itm/151894265732?var=451083662681) - 10 EUR
+
+stuff i rarely need
+
 - books
   - i dont read books but... at least i would look smart if i had more books in my home...
   - ... but i can scan "interesting" books with my ADF scanner ([Brother ADS-3000N](https://geizhals.de/brother-imagecenter-ads-3000n-ads3000nux1-a1375507.html))
