@@ -339,6 +339,8 @@ for the billionaires who want to support my work...
 
 if i am not responding to your messages, then please try all other contact channels
 
+if i dont like your message, i send you a reply anyway, so you know i received your message
+
 i have enemies who want me silent or jailed or dead, so these people will isolate me = shadowban me,
 but i hope that they do not censor all of my contact channels
 
