@@ -320,6 +320,24 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - https://geizhals.de/seagate-skyhawk-ai-rescue-24tb-st24000ve002-a3120777.html - 24 TB - 520 eur
 - usb hub: 7 port, USB-A plug
   - https://geizhals.de/digitus-office-hub-da-70241-1-a2447896.html - 30 eur
+- deep fryer
+  - Tefal Oleoclean FR8040 - 3.5 Liter - 2300 Watt - for 1200 Gram food = 2 persons - 100 eur
+  - Tefal Oleoclean Compact FR7016 - 2 Liter - 2300 Watt - for 800 Gram food = 1 person - 100 eur
+- [reticulum](https://reticulum.network/manual/whatis.html) mesh networking hardware
+  - [2X Meshtastic LoRa ESP32 Entwicklungsboard + Akku + Gehäuse 868MHz-915MHz DE](https://www.ebay.de/itm/317334315917) - 80 eur
+- natural medicine for Covid detox
+  - [Molecusan Liquid Spectrum](https://molecusan.com/products/liquid-spectrum) - 130 eur / month
+    - [Vedicinals-9 (Molecusan) - Supports mitochondria, detox, and immune function](https://recoverlongcovid.com/treatments/molecusan/)
+- ruminant meat: beef, lamb, goat, venison
+  - [12 x Dreistern Rindfleisch im eigenen Saft - 400 Gramm](https://www.ebay.de/itm/406684029113) - 80 eur
+- supplements
+  - Vitamin C powder 1kg
+  - Korean Ginseng tablets
+    - [Koreanischer Ginseng 350 mg Tab – Energie, Fokus, Vitalität, Ginsenoside Support](https://www.ebay.de/itm/155279204628?var=455476041597) - 11 eur
+  - Vitamin D tablets
+    - [Vitamin D3 10000 IE + K2 MK7 200 mcg Tab – Immunsystem, Knochen, Muskeln & Zähne](https://www.ebay.de/itm/156256411729?var=457257031824) - 10 eur
+  - Kombucha
+    - [Kombucha Teepilz f 2L 80gr. staatlich kontrollierte Zucht - März 2020 geprüft](https://www.ebay.de/itm/112917015637) - 10 eur
 
 ### expensive stuff
 
