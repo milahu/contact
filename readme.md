@@ -91,6 +91,12 @@ offline-first private p2p chat
 
 ## email
 
+note: i assume that all my email accounts are [censored](#censored),
+so i prefer contact via chat
+([ricochet](#ricochet),
+[session chat](#session-chat),
+...)
+
 - milahu@gmail.com
 - milahu@protonmail.com
 - milahu450@gmail.com
