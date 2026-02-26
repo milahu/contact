@@ -2,12 +2,18 @@
 
 how to contact milahu
 
+
+
 ## private
 
 the best ways to reach me in \*private\* are
 
 - [offline](#offline)
+- [ricochet](#ricochet)
+- [session chat](#session-chat)
 - [onion](#onion)
+
+
 
 ## offline
 
@@ -16,6 +22,8 @@ best method for privacy
 before you send anything big or expensive,
 please ask if i am still alive,
 and please ask if i want or need it (i hate surprises)
+
+
 
 ### trostberg jägerstr
 
@@ -26,6 +34,8 @@ Jägerstr. 10
 Germany
 ```
 
+
+
 ## face
 
 about year 2005 (age 16) my face looked like this
@@ -33,6 +43,8 @@ about year 2005 (age 16) my face looked like this
 ![](milahu.jpg)
 
 if you see my face in public, feel free to say "hey mila!"
+
+
 
 ## phone
 
@@ -48,23 +60,7 @@ best method for online privacy
 
 based on [torproject.org](https://www.torproject.org/)
 
-- [darktea.onion/milahu5](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu5)
-- [righttoprivacy.onion/milahu5](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu5)
-
-
-
-### gone
-
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
-- mailto:milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
-- xmpp:milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
-- ricochet:milahuuuc3656fettsi3jjepqhhvnuml5hug3k7djtzlfe4dw6trivqd
-- [darktea.onion/milahu](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu)
-  - [darktea.onion/milahu2](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu2)
-  - [darktea.onion/milahu3](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu3)
-  - [darktea.onion/milahu4](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu4)
-- [righttoprivacy.onion/milahu](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu)
+see the `.onion` services in [git](#git)
 
 
 
@@ -89,6 +85,8 @@ offline-first private p2p chat
 
 -->
 
+
+
 ## email
 
 note: i assume that all my email accounts are [censored](#censored),
@@ -104,31 +102,15 @@ so i prefer contact via chat
 
 
 
-### gone
-
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
-- milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
-
 ## XMPP
 
 aka: Jabber
 
-### gone
 
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
-- milahu@jabber.de
-- milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
 
 ## IRC
 
-### gone
 
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
-- milahu@irc.libera.chat
-- milahu@torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
 
 ## ricochet
 
@@ -137,42 +119,35 @@ chat over tor
 
 - ricochet:milahuuui4wn6cp37ayx46nl2k2d67tsstaq3v35kjb4xyzxcwlqwjad
 
-### gone
 
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
-- ricochet:milahuuuc3656fettsi3jjepqhhvnuml5hug3k7djtzlfe4dw6trivqd
 
 ## git
 
 feel free to create new issues on my git repos
 
 - [github.com/milahu](https://github.com/milahu)
-- [darktea.onion/milahu5](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu5)
-
-### gone
-
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
 - [darktea.onion/milahu](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu)
 - [righttoprivacy.onion/milahu](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu)
+- [gdatura.onion/milahu](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu)
+- [darkforest.onion/milahu](http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu)
+
+see also [github.com/milahu/darknet-git-hosting-services](https://github.com/milahu/darknet-git-hosting-services)
+
+
 
 ## social
 
-### gone
-
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
-- [gab.com/milahu](gab.com/milahu) - free speech
+- [gab.com/milahu](gab.com/milahu) - free speech (but too much [spam](https://www.urbandictionary.com/define.php?term=beautifulspam))
 - [hypothes.is/users/milahu](https://hypothes.is/users/milahu) - comments for all websites, free speech
 - [facebook.com/mila.nautikus](https://www.facebook.com/mila.nautikus) - my stupid face : P
 - [facebook.com/findus.kohlhase](https://www.facebook.com/findus.kohlhase) - mostly music
+- [x.com/milahu104](https://x.com/milahu104)
+  - [github.com/milahu/twitter-milahu104](https://github.com/milahu/twitter-milahu104)
+- [reddit.com/user/milahu2/](https://www.reddit.com/user/milahu2/)
+
+
 
 ## music
-
-### gone
-
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
 
 - [last.fm/user/emmhu21](https://www.last.fm/user/emmhu21)
   - https://www.last.fm/user/milahu
@@ -181,12 +156,16 @@ status: gone since [prison 2024-12-09](#prison-2024-12-09)
 - https://soundcloud.com/mila-nautikus
 - https://www.youtube.com/user/milahu
 
+
+
 ## services
 
 - [github.com/milahu/deutschetorrents](https://github.com/milahu/deutschetorrents) - german torrents
 - [milahu.duckdns.org/bin/get-subtitles](http://milahu.duckdns.org/bin/get-subtitles) - download subtitles
 - [github.com/milahu/books](https://github.com/milahu/books) - books on the topic of selforganization
 - [Druckservice, Scanservice, Kopierservice](https://www.kleinanzeigen.de/s-anzeige/druckservice-scanservice-kopierservice/3224921804-401-5698)
+
+
 
 ## donate
 
@@ -197,17 +176,13 @@ you can also help me by printing and distributing my book. this also works after
 
 you can also donate physical stuff, see [wishlist](#wishlist)
 
-### gone
 
-status: gone since [prison 2024-12-09](#prison-2024-12-09)
-
-- https://bitback.me/milahu/
-  - XMR: 863Ug11jgT1FofQt5gcpYhXDy9HvieSDtAVtQ4a4KwVPA1paoZmcUnKHRtbXvgwCkGTEukRW94eBTLtpnRfKEWDR6rt5S6S
-  - XNO: nano_3t1jac16b3zo4zk5w1is5s6e3ufebdkqt6q41yeaf6wpokuo6ys9pp9a7sx7
 
 ## wishlist
 
 before you send anything, please ask if my [offline](#offline) address is up to date
+
+
 
 ### stuff i always need
 
@@ -239,6 +214,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [50 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624587009741) - 40 EUR
   - [125 Versandkartons - 330 x 240 x 160 mm](https://www.ebay.de/itm/351643752822?var=624586970265) - 72 EUR
 -->
+
+
 
 ### stuff i rarely need
 
@@ -345,6 +322,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - Kombucha
     - [Kombucha Teepilz f 2L 80gr. staatlich kontrollierte Zucht - März 2020 geprüft](https://www.ebay.de/itm/112917015637) - 10 eur
 
+
+
 ### expensive stuff
 
 for the billionaires who want to support my work...
@@ -353,6 +332,7 @@ for the billionaires who want to support my work...
   - todo: can this produce stapled booklets without folding?
     or can this produce stapled blocks with two staples in the middle of the sheet?
     currently, stapling is the main bottleneck in my workflow
+    - alternative: perfect binding finisher module
   - probably i would also need a new appartment (or house) for this...
     my current appartment has no elevator, and i dont believe such a large machine can be transported through my stairway.
     generally, for high-volume logistics, a first floor appartment/house/garage (no stairs) would be ideal.
@@ -360,6 +340,8 @@ for the billionaires who want to support my work...
     (servicing such large machines is not trivial, so there are only a few service locations, mostly near large cities)
 - palettes of paper, toner, drums, envelopes, ...
 - millions of post stamps, ...
+
+
 
 ## censored
 
@@ -369,6 +351,8 @@ if i dont like your message, i send you a reply anyway, so you know i received y
 
 i have enemies who want me silent or jailed or dead, so these people will isolate me = shadowban me,
 but i hope that they do not censor all of my contact channels
+
+
 
 ### prison 2024-12-09
 
