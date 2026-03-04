@@ -208,6 +208,13 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Markenbox "Raketenpost", Briefmarke zu 1,80 €, 100er-Box](https://shop.deutschepost.de/markenbox-raketenpost-briefmarke-zu-1-80-eur-100er-box) - 180 EUR
 - labels
   - [Etiketten Bögen weiß auf DIN A4 selbstklebend von Etkettenworld BV EW1-EW21 - 105 x 57 mm](https://www.ebay.de/itm/151894265732?var=451083662681) - 10 EUR
+- food: ruminant meat: beef, lamb, goat, venison, ...
+  - canned beef
+    - [12x Dreistern Rindfleisch im eigenen Saft 400g](https://www.ebay.de/itm/406684029113) - 80 eur - 6 servings
+    - [12x Dreistern Rindfleisch im eigenen Saft 400g](https://www.ebay.de/itm/257363427423) - 80 eur - 6 servings
+  - pure bone broth powder
+    - [Knochenbrühe Pulver vom Weiderind 500g](https://www.amazon.de/dp/B0F3PCHB3K) - 45 eur - 50 servings
+    - [Carnivoro Knochenbrühe Pulver vom schwedischen Rind 500g](https://www.amazon.de/dp/B0F79KYWQN) - 55 eur - 50 servings
 
 <!--
 - cardboard boxes for DIN C4 letters
@@ -311,8 +318,14 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - natural medicine for Covid detox
   - [Molecusan Liquid Spectrum](https://molecusan.com/products/liquid-spectrum) - 130 eur / month
     - [Vedicinals-9 (Molecusan) - Supports mitochondria, detox, and immune function](https://recoverlongcovid.com/treatments/molecusan/)
-- ruminant meat: beef, lamb, goat, venison
-  - [12 x Dreistern Rindfleisch im eigenen Saft - 400 Gramm](https://www.ebay.de/itm/406684029113) - 80 eur
+- water filters
+  - [Katadyn Pocket Tactical](https://www.ebay.de/sch/i.html?_nkw=Katadyn+Pocket+Tactical) - 300 eur
+    - "tactical" = all black, no silver parts
+  - [Katadyn Micropur Forte](https://www.ebay.de/sch/i.html?_nkw=Katadyn+Micropur+Forte) - chloride + silver = purification + storage
+  - [Katadyn Micropur Classic](https://www.ebay.de/sch/i.html?_nkw=Katadyn+Micropur+Classic) - silver = storage
+- buckets
+  - [Komposteimer 5 Liter Edelstahl silber](https://www.ebay.de/itm/177331149850?var=476986673708) - 30 eur
+  - [Edelstahleimer mit Deckel 12L](https://www.ebay.de/sch/i.html?_nkw=edelstahl+eimer+deckel+12)
 - supplements
   - Vitamin C powder 1kg
   - Korean Ginseng tablets
