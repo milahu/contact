@@ -71,8 +71,6 @@ private p2p chat for
 [desktop](https://github.com/session-foundation/session-desktop),
 [ios](https://github.com/session-foundation/session-ios)
 
-status: active since [prison 2024-12-09](#prison-2024-12-09)
-
 - 0528f44eec76d6aa7c801a8f5c36ec5a86aee9682ddaa3c30c188fbb4dfc524b59
 
 <!-- TODO test. old and broken?
