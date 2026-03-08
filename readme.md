@@ -383,3 +383,13 @@ see also
 - [darktea.onion/milahu/alchi/issues/1](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/alchi/issues/1)
   - [Heft mit bedrohlichem und wirrem Inhalt an Schule verteilt – Mann vorläufig festgenommen. Traunsteiner Tagblatt 9.12.2024](https://www.traunsteiner-tagblatt.de/region/landkreis-traunstein_artikel,-heft-mit-bedrohlichem-und-wirrem-inhalt-an-schule-verteilt-mann-vorlaeufig-festgenommen-_arid,912818.html) ([archive.org](https://web.archive.org/web/20241213203917/https://www.traunsteiner-tagblatt.de/region/landkreis-traunstein_artikel,-heft-mit-bedrohlichem-und-wirrem-inhalt-an-schule-verteilt-mann-vorlaeufig-festgenommen-_arid,912818.html))
   - [Unbekannter marschierte in Gymnasium und verteilte Zettel mit bedrohlichem Inhalt. chiemgau24 9.12.2024](https://www.chiemgau24.de/chiemgau/traunstein/traunstein-ort29586/traunstein-unklare-bedrohungslage-an-annette-kolb-gymnasium-grosseinsatz-der-polizei-93457836.html) ([archive.org](https://web.archive.org/web/20241212150415/https://www.chiemgau24.de/chiemgau/traunstein/traunstein-ort29586/traunstein-unklare-bedrohungslage-an-annette-kolb-gymnasium-grosseinsatz-der-polizei-93457836.html))
+
+
+
+## mirrors
+
+- https://github.com/milahu/contact
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/contact
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/contact
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/contact
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/contact
