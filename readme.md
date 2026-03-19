@@ -66,6 +66,9 @@ see the `.onion` services in [git](#git)
 
 ## session chat
 
+con: session is less secure than [ricochet](#ricochet)
+([session has no Perfect Forward Secrecy](https://getsession.org/blog/session-protocol-v2))
+
 private p2p chat for
 [android](https://github.com/session-foundation/session-android),
 [desktop](https://github.com/session-foundation/session-desktop),
