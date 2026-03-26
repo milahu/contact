@@ -302,7 +302,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - this is not available in my home until year 2027 (i guess SHTF comes before 2027...)
     so this connection has to be in someone else's home, where i can house my server (homeserver, selfhosting, p2p, bittorrent, http, nas)
 - USB mouse: [Cherry GENTIX Silent](https://geizhals.de/cherry-gentix-silent-schwarz-jm-0310-2-a1711766.html)
-- shelf: [Shelf Creations Basic Steckregal 180x100x60cm verzinkt](https://www.ebay.de/itm/373237863733) - 80 EUR - 4x 6 mm MDF boards
+- shelf
+  - [shelfplaza HOME Schwerlastregal verzinkt - 180x100x60cm](https://www.ebay.de/itm/175779446534?var=475177700265) - 80 eur - 6-8 mm HDF boards
 - phone: https://pine64.org/devices/pinephone/
   - https://pine64.com/product/pinephone-beta-edition-with-convergence-package/ - 200 usd
 - winter jacket: Condor Summit Softshell - black - XL
@@ -337,8 +338,69 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - [Koreanischer Ginseng 350 mg Tab – Energie, Fokus, Vitalität, Ginsenoside Support](https://www.ebay.de/itm/155279204628?var=455476041597) - 11 eur
   - Vitamin D tablets
     - [Vitamin D3 10000 IE + K2 MK7 200 mcg Tab – Immunsystem, Knochen, Muskeln & Zähne](https://www.ebay.de/itm/156256411729?var=457257031824) - 10 eur
+  - choline - for detox, liver support
+    - [Cholin + Inositol Tabletten – Leberfunktion, Stimmung, Fokus & Gehirn Support](https://www.ebay.de/itm/155935066469?var=456356248518) - 11 eur
+  - liver support, for detox
+    - [Leber Komplex I 180 Kapseln I mit Mariendistel, Artischocke, Curcuma & Löwenzahn](https://www.ebay.de/itm/116366261171) - 22 eur
+      - Milk thistle: Supports liver function to process toxins
   - Kombucha
     - [Kombucha Teepilz f 2L 80gr. staatlich kontrollierte Zucht - März 2020 geprüft](https://www.ebay.de/itm/112917015637) - 10 eur
+  - NAC = N-Acetyl Cysteine - for detox: Boosts glutathione, the body’s master antioxidant, to detoxify nitrosamines and heavy metals
+    - [Vitalmax NAC (N-Acetyl-L-Cystein) Pulver, 300 g](https://www.ebay.de/itm/396615209709) - 15 eur
+  - Chlorella - for detox: Binds heavy metals and enhances elimination
+    - [MyVita Chlorella 250 mg, 1000 Tabletten](https://www.ebay.de/itm/394433300747) - 16 eur
+  - DMSO - for healing of joints etc
+    - [ChemWorld DMSO-Gel 50% mit Aloe Vera, 120ml](https://www.ebay.de/itm/397735839442) - 16 eur
+    - [DMSO 99,9% Reinheit nach ph. eur. 1000 ml in pharma Veral Glas braun](https://www.ebay.de/itm/286742132650) - 27 eur
+  - multivitamin
+    - [Now Foods ADAM (Multivitamine für Männer) - 90 Kapseln](https://www.ebay.de/itm/397736024360) - 22 eur
+    - [NOW Foods, ADAM™, Superior Men's Multi, 90 Softgels](https://www.iherb.com/pr/now-foods-adam-superior-men-s-multi-90-softgels/76072) - 25 usd
+  - lithium orotate 5mg
+    - [Nutricost, Lithium Orotate, 5 mg, 120 Capsules](https://www.iherb.com/pr/nutricost-lithium-orotate-5-mg-120-capsules/135520) - 13 usd
+  - iodine - for thyroid gland = more energy
+    - [Swanson Kelp (Jod) 225mcg 250 Tabletten](https://www.ebay.de/itm/393954964322) - 17 eur
+  - neem oil - to fight lice, etc
+    - [Natura Germania® Neemöl (Niemöl) 1L - mit Waschnuß-Extrakt - fertig gemischt](https://www.ebay.de/itm/256438914556) - 30 eur
+    - [Neemöl mit Emulgator 1000ml - fertig für sofortige Anwendung von wesentlich.](https://www.ebay.de/itm/134966661292) - 30 eur
+  - Lactoferrine - todo why
+    - [Bandini® Lactoferrin 60 Kapseln - 200Mg Laktoferrin + 60Mg Vitamin C Je Tagesdos](https://www.ebay.de/itm/177832599402) - 22 eur
+- solar power
+  - [SUNNIVA® Solarmodul Solarpanel FULL BLACK Bifacial Bifazial Glas/Glas 460 Watt](https://www.ebay.de/itm/236103596283?var=536639413125) - 350 eur
+    - todo: solar panel roof mounting kit
+  - [ECO-WORTHY 48V 100Ah Speicher Bluetooth LiFePO4 Stromspeicher Akku 5,12kWh](https://www.ebay.de/itm/286902471524) - 700 eur
+  - [Off-Grid/Insel-Wechselrichter Growatt SPF 6000 ES Plus, 6000W, mit WLAN-Dongle](https://www.ebay.de/itm/397666616140) - 500 eur
+  - todo more? small parts?
+- EEG scanner: at least 3 pieces
+  - [OpenBCI 8-channel WiFi version Development board](https://www.alibaba.com/product-detail/One-set-of-OpenBCI-8-channel_1601281770688.html) - 300 eur
+  - [Smart Health Transcranial Electrogram Cap for EEG Brain Waves 63 O'clock Positioning Black One-size-fits-all](https://www.alibaba.com/product-detail/Smart-Health-Transcranial-Electrogram-Cap-for_1601523355047.html) - 14 eur
+  - [10pcs Multicolor Din 1.5mm Female Plug and Gold Plated Copper Electrode Sleep Brain EEG Cable, 1.5m](https://www.alibaba.com/product-detail/10pcs-Multicolor-Din-1-5mm-Female_1600232710963.html) - 25 eur
+    - todo: contact gel
+    - todo: silver electrodes? dry electrodes?
+  - [DIN 1.5mm Female Socket for EEG Leadwires](https://www.alibaba.com/product-detail/DIN-1-5mm-Female-Socket-for_1601597536557.html) - 1.32 eur
+  - todo more? small parts?
+- food canning
+  - [18 + 1 Weck Gläser 580ml 1/2L Sturzglas 😍 Deckel Gummi Klammer Einmachglas](https://www.ebay.de/itm/364245853736) - 50 eur
+  - einkochautomat, edelstahl, mit timer, 27 liter, ~2000 watt, mit Einlegeboden
+    - [Edelstahl Einkochtopf 27 Liter Glühweintopf Glühweinkocher Einkochautomat 27l](https://www.ebay.de/itm/184370511838) - 74 eur
+    - [27l Glühweinkocher Edelstahl Glühweinkessel Glühweintopf Einkochautomat Analog](https://www.ebay.de/itm/383225798567) - 90 eur
+- clothes
+  - [SWEATSHIRT *FRUIT OF THE LOOM* KAPUZEN PULLOVER Hoodie - XL - Black](https://www.ebay.de/itm/351836909645?var=621048896027) - 20 eur
+- knives
+  - [Haller Combat Dagger schwarzer Dolch Stiefelmesser](https://www.markenmesser24.com/haller-combat-dagger-schwarzer-dolch-stiefelmesser-16645.html) - 30 eur
+    - Klingenlänge 180 mm
+    - Gesamtgewicht: ca. 230 g
+  - [K25 Rui Black Dagger schwarzer kleiner Dolch Stiefelmesser](https://www.markenmesser24.com/Messer/Feststehende-Messer/Kampfmesser/rui-rui-black-dagger-schwarzer-kleiner-dolch-stiefelmesser-24030.html) - 25 eur
+    - Klingenlänge: ca. 11 cm
+    - Grifflänge: ca. 10,9 cm
+    - Gesamtlänge: ca. 23,2 cm
+    - Klingenstärke: ca. 4 mm
+    - Gewicht: ca. 110 g
+  - [Albainox Black Panther Messer Machete Buschmesser Hackmesser mit Nylonscheide](https://www.ebay.de/itm/291614097265) - 33 eur
+    - Klingenlänge 45,5 cm
+    - Klingenstärke 3 mm
+    - Machete 654 Gramm
+- buckets for water
+  - [Eimer mit Deckel Weiß Aufbewahrung Lebensmittelecht Leereimer - 20x 10 Liter](https://www.ebay.de/itm/295747050458?var=593944406084) - 90 eur
 
 
 
