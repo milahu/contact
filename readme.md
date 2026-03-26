@@ -108,6 +108,9 @@ so i prefer contact via chat
 
 aka: Jabber
 
+- milahu@jabber.de
+- knister204@xmpp.is
+
 
 
 ## IRC
