@@ -126,6 +126,17 @@ chat over tor
 
 
 
+## telegram
+
+i hate telegram for its [anti-features](https://github.com/milahu/telegram-chat-recorder)...
+but here you go:
+
+```
++4915172059978
+```
+
+
+
 ## git
 
 feel free to create new issues on my git repos
