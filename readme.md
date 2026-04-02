@@ -381,6 +381,11 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [ECO-WORTHY 48V 100Ah Speicher Bluetooth LiFePO4 Stromspeicher Akku 5,12kWh](https://www.ebay.de/itm/286902471524) - 700 eur
   - [Off-Grid/Insel-Wechselrichter Growatt SPF 6000 ES Plus, 6000W, mit WLAN-Dongle](https://www.ebay.de/itm/397666616140) - 500 eur
   - todo more? small parts?
+- power generator - diesel - three phase - 230 volt - 5000 watt - 1.4 liter per hour (1000 liter = 700 hours)
+  - [DIESEL E-Start 5200W Stromerzeuger Generator Notstromaggregat Stromgenerator](https://www.ebay.de/itm/144958940628) - 1300 eur
+  - diesel tank - 1000 liter
+    - [Hoftankstelle - Einsteigerpaket - Horn - 1000 Liter - Dieseltank mit Pumpe](https://www.ebay.de/itm/304341076980) - 1300 eur
+  - [diesel - 1000 liter](https://www.heizoel24.de/heizoel/angebotsliste?zipCode=83308&amount=1000&stations=1&product=1&options=5,24,-2,11,9&cn=0&ap=0) - 1600 eur
 - EEG scanner: at least 3 pieces
   - [OpenBCI 8-channel WiFi version Development board](https://www.alibaba.com/product-detail/One-set-of-OpenBCI-8-channel_1601281770688.html) - 300 eur
   - [Smart Health Transcranial Electrogram Cap for EEG Brain Waves 63 O'clock Positioning Black One-size-fits-all](https://www.alibaba.com/product-detail/Smart-Health-Transcranial-Electrogram-Cap-for_1601523355047.html) - 14 eur
