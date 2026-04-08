@@ -217,6 +217,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - Kopierpapier A4 BASIC PRO
     - https://kopierpapieronline.de/p/kopierpapier-go-copy-basic-pro-100-000-blatt-70g-weiss-1-palette-hoher-weissegrad-zuverlaessig-und-gut - 600 EUR / 100K
     - https://kopierpapieronline.de/p/kopierpapier-go-copy-basic-pro-50-000-blatt-70g-weiss-1-2-palette-hoher-weissegrad-zuverlaessig-und-gut - 310 EUR / 50K
+- staples
+  - [Novus Heftklammern Tackerklammern 23/10 SUPER Klammern verzinkt 8000 Stück](https://www.ebay.de/itm/226839719050) - 27 eur
 - envelopes for DIN C4 letters with 2cm height
   - [500 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/185701931365) - 70 EUR
   - [1.000 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/404058621949) - 125 EUR
@@ -422,6 +424,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [TW 1000 Pepper-Jet Titan 750mL](https://www.ebay.de/itm/205257671672) - 120 eur
 - buckets for water
   - [Eimer mit Deckel Weiß Aufbewahrung Lebensmittelecht Leereimer - 20x 10 Liter](https://www.ebay.de/itm/295747050458?var=593944406084) - 90 eur
+- staplers with a depth of at least 150mm for stapling of DIN A5 booklets
+  - [Novus B 54/3 - 250mm Einlegetiefe - grau](https://www.ebay.de/sch/i.html?_nkw=Novus+B+54%2F3)
+  - [Skrebba Skre 117/120 lang - 250mm Einlegetiefe - blau](https://www.ebay.de/sch/i.html?_nkw=Skre+117)
 
 
 
