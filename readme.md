@@ -10,6 +10,7 @@ the best ways to reach me in \*private\* are
 
 - [offline](#offline)
 - [ricochet](#ricochet)
+- [simplex](#simplex)
 - [session chat](#session-chat)
 - [onion](#onion)
 
@@ -123,6 +124,17 @@ chat over tor
 ([source](https://github.com/blueprint-freespeech/ricochet-refresh))
 
 - ricochet:milahuuui4wn6cp37ayx46nl2k2d67tsstaq3v35kjb4xyzxcwlqwjad
+
+
+
+## simplex
+
+i dont like the complexity of the [simplex](https://github.com/simplex-chat/simplex-chat) protocol...
+see also [SimpleX: Eindrücke vom Messenger ohne Identifier](https://www.kuketz-blog.de/simplex-eindruecke-vom-messenger-ohne-identifier/)
+
+```
+https://smp9.simplex.im/a#BZQVOpa_87XvP5JgtsIOOg8j1dq-OEG6M48VoHOd8hw
+```
 
 
 
