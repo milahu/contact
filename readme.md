@@ -67,6 +67,17 @@ see the `.onion` services in [git](#git)
 
 ## session chat
 
+con: session has re-invented [tor](https://www.torproject.org/)'s onion routing,
+which is [expensive](https://getsession.org/donate):
+
+> If we are unable to reach our funding goal within this period,
+> the Session Technology Foundation (STF) will be forced to shut down.
+>
+> This is our final appeal to the Session community:
+> without your support, the STF will cease all operations on July 8, 2026.
+>
+> Even with a lean team, the STF estimates this cost to be approximately $1 million per year.
+
 con: session is less secure than [ricochet](#ricochet)
 ([session has no Perfect Forward Secrecy](https://getsession.org/blog/session-protocol-v2))
 
