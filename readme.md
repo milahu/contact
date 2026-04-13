@@ -120,6 +120,8 @@ so i prefer contact via chat
 
 aka: Jabber
 
+- `milahu@milahu.duckdns.org` - you can create user accounts on my server: `milahu.duckdns.org`
+  - [OTR](https://en.wikipedia.org/wiki/Off-the-record_messaging) fingerprint: `998C0BF5 C20F16FE 0DD1E1AB 70688E7C A78CC337`
 - milahu@jabber.de
 - knister204@xmpp.is
 
