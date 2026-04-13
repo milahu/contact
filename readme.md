@@ -353,8 +353,12 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - USB mouse: [Cherry GENTIX Silent](https://geizhals.de/cherry-gentix-silent-schwarz-jm-0310-2-a1711766.html)
 - shelf
   - [shelfplaza HOME Schwerlastregal verzinkt - 180x100x60cm](https://www.ebay.de/itm/175779446534?var=475177700265) - 80 eur - 6-8 mm HDF boards
-- phone: https://pine64.org/devices/pinephone/
-  - https://pine64.com/product/pinephone-beta-edition-with-convergence-package/ - 200 usd
+- phone
+  - [wikipedia: List of open-source mobile phones](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones)
+  - pinephone: https://pine64.org/devices/pinephone/
+    - https://pine64.com/product/pinephone-beta-edition-with-convergence-package/ - 200 usd
+  - librem 5: https://puri.sm/products/librem-5/ - 800 usd
+    - "The Librem 5 mobile segregates the modem from the system and memory, making it a separate module, a configuration rare in modern cellphones." ([wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones))
 - winter jacket: Condor Summit Softshell - black - XL
   - https://condoroutdoor.com/products/condor-summit-tactical-softshell-jacket?variant=44504186978455 - 130 usd
 - scarf: beechfield morf original - https://beechfield.com/products/b900-morfr-original - black
