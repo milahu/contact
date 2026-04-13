@@ -10,6 +10,7 @@ the best ways to reach me in \*private\* are
 
 - [offline](#offline)
 - [ricochet](#ricochet)
+- [xmpp](#xmpp)
 - [simplex](#simplex)
 - [session chat](#session-chat)
 - [onion](#onion)
