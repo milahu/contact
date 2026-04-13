@@ -127,6 +127,15 @@ aka: Jabber
 
 
 
+### XMPP clients
+
+- desktop
+  - [gajim](https://dev.gajim.org/gajim/gajim)
+- android
+  - [monocles](https://codeberg.org/monocles/monocles_chat)
+
+
+
 ## IRC
 
 
