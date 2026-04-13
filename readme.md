@@ -134,7 +134,7 @@ aka: Jabber
 - desktop
   - [gajim](https://dev.gajim.org/gajim/gajim)
 - android
-  - [monocles](https://codeberg.org/monocles/monocles_chat)
+  - [monocles](https://codeberg.org/monocles/monocles_chat) - install via [f-droid](https://f-droid.org/)
 
 
 
