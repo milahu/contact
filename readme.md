@@ -66,6 +66,14 @@ see the `.onion` services in [git](#git)
 
 
 
+### sonarmsng.onion
+
+sonar is a tor-hidden messenger website
+
+http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/contact/milahu
+
+
+
 ## session chat
 
 con: session has re-invented [tor](https://www.torproject.org/)'s onion routing,
