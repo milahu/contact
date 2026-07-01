@@ -279,6 +279,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - pure bone broth powder
     - [Knochenbrühe Pulver vom Weiderind 500g](https://www.amazon.de/dp/B0F3PCHB3K) - 45 eur - 50 servings
     - [Carnivoro Knochenbrühe Pulver vom schwedischen Rind 500g](https://www.amazon.de/dp/B0F79KYWQN) - 55 eur - 50 servings
+  - electrolytes
+    - [natural elements Elektrolyte Sticks WORKOUT - Zitrone](https://www.ebay.de/itm/336472054245) - 16 eur
+    - [Elektrolyte Sticks NIGHT-OUT – 20 Sticks Grapefruit](https://www.ebay.de/itm/336472054265) - 16 eur
 
 <!--
 - cardboard boxes for DIN C4 letters
