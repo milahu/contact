@@ -480,6 +480,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - staplers with a depth of at least 150mm for stapling of DIN A5 booklets
   - [Novus B 54/3 - 250mm Einlegetiefe - grau](https://www.ebay.de/sch/i.html?_nkw=Novus+B+54%2F3)
   - [Skrebba Skre 117/120 lang - 250mm Einlegetiefe - blau](https://www.ebay.de/sch/i.html?_nkw=Skre+117)
+- foldable garden rocking ergonomic reclining chair
+  - [Relaxliege Sonnenliege Gartenliege Liegestuhl XXL 200kg Belastbar Schaukelliege - beige](https://www.ebay.de/itm/202966273152?var=503142345907) - 70 eur - [image](img/Relaxliege%20Sonnenliege%20Gartenliege%20Liegestuhl%20XXL%20200kg%20Belastbar%20Schaukelliege%20-%20ebay.de%20itm%20202966273152%20-%20beige.webp)
+    - this is a cheap + lightweight + small alternative to: [Le Corbusier Chaise longue 1928](https://en.wikipedia.org/wiki/Chaise_Longue_%28Le_Corbusier%29) - 5000 eur - [image](img/le-corbusier-lc4-chaise-lounge-cassina-2.jpg)
 
 
 
