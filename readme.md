@@ -379,7 +379,13 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - winter gloves
   - https://www.ebay.de/itm/172876817969?var=471655693818 - brown - XL - 25 eur
 - hard drives
-  - https://geizhals.de/seagate-skyhawk-ai-rescue-24tb-st24000ve002-a3120777.html - 24 TB - 520 eur
+  - 24 TB
+    - https://geizhals.de/toshiba-s300-ai-surveillance-24tb-mg11aca24te-v-a3702476.html - 850 eur
+    - https://geizhals.de/seagate-barracuda-24tb-st24000dm001-st24000dma01-a3454637.html - 800 eur
+    - https://geizhals.de/seagate-skyhawk-ai-rescue-24tb-st24000ve002-a3120777.html - 950 eur
+    - https://geizhals.de/seagate-ironwolf-pro-nas-hdd-rescue-24tb-st24000nt002-a3120752.html - 970 eur
+    - https://geizhals.de/toshiba-cloud-scale-capacity-mg11aca-24tb-mg11aca24te-a3430273.html - 930 eur
+    - https://geizhals.de/western-digital-wd-purple-pro-24tb-wd241purp-a3677558.html - 1000 eur
 - usb hub: 7 port, USB-A plug
   - https://geizhals.de/digitus-office-hub-da-70241-1-a2447896.html - 30 eur
 - deep fryer
