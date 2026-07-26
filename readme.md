@@ -363,6 +363,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - Routeranschlusskabel, 0,5m, ungeschirmt (TODO [TAE Kabel geschirmt](https://telekomhilft.telekom.de/conversations/festnetz-internet/kabelabschirmung-zu-fritz-box-dsl-router-aus-der-tae-dose/668988614ae73561dada619e))
     - [SHIVERPEAKS, TAE-F Stecker, RJ45 Stecker, schwarz, 0,5m](https://www.reichelt.de/de/de/shop/produkt/tae-f_stecker_auf_rj45_stecker_schwarz_0_5m-317042) (3 EUR)
     - [SHIVERPEAKS, TAE-F Stecker, RJ45 Stecker, weiß, 0,5m](https://www.reichelt.de/de/de/shop/produkt/tae-f_stecker_auf_rj45_stecker_weiss_0_5m-317043) (3 EUR)
+  - active USB 3.0 extension cables
+    - [CSL - 5,0m aktives USB 3.0 Repeater Verlängerungskabel (Extension Cable)](https://www.ebay.de/itm/155524032904) - 16 eur
+    - [LogiLink UA0127 5 Meter Verlängerungskabel Repeater Kabel USB 3.0 schwarz](https://www.ebay.de/itm/141019607273) - 17 eur
 - audio speakers
   - [Logitech Z533, 60 Watt RMS, 2.1 Channel](https://geizhals.de/logitech-z533-schwarz-980-001054-a1298701.html) - 90 EUR
 - FTTH fiber internet connection, 1000 Mbitps download, 500 Mbitps upload
