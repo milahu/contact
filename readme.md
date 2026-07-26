@@ -344,6 +344,11 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - Intern: 2x 2.5"/3.5" SATA 6Gb/s (Hot-Swap)
     - RAID-Level: 0/​1/​5/​6/​10/​JBOD
     - CPU: AMD Ryzen Embedded R1600, 2C/4T, 2.60-3.10GHz, 4MiB+1MiB Cache, 15W TDP, 12-25W cTDP, Codename "Banded Kestrel (Raven2)" (Zen, GF 14nm)
+  - maybe: [Synology DiskStation DS925+, 32GB RAM ECC, 2x RJ-45 2.5GBase-T, 2x USB-A 3.0](https://geizhals.de/synology-diskstation-ds925-a3486608.html) - 1000 eur
+    - RAM: 32GB
+    - Intern: 4x 2.5"/3.5" SATA 6Gb/s (Hot-Swap)
+    - RAID-Level: 0/​1/​5/​6/​10/​JBOD
+    - CPU: AMD Ryzen Embedded V1500B, 4C/8T, 2.20GHz, 4MiB+2MiB Cache, 15W TDP, 12-25W cTDP, Codename "Great Horned Owl" (Zen, GF 14nm)
 - USB sticks
   - useful for linux live distros (tails linux, nixos-tails, ...)
   - [SanDisk Ultra Fit](https://geizhals.de/?cat=sm_usb&asuch=SanDisk+Ultra+Fit&v=e&hloc=at&hloc=de&sort=r&bl1_id=30&xf=21106_256)
