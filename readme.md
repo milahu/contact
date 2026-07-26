@@ -470,7 +470,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - Klingenlänge 45,5 cm
     - Klingenstärke 3 mm
     - Machete 654 Gramm
-- pepper spray - you know, when a bear attacks you
+- pepper spray - you know, when you get attacked by a bear
   - [TW 1000 Pepper-Gel Titan 750mL](https://www.ebay.de/itm/205718758570) - 120 eur
   - [TW 1000 Pepper-Jet Titan 750mL](https://www.ebay.de/itm/205718761296) - 80 eur
   - [TW 1000 Pepper-Jet Titan 750mL](https://www.ebay.de/itm/276755247079) - 120 eur
