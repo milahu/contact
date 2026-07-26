@@ -347,9 +347,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - USB sticks
   - useful for linux live distros (tails linux, nixos-tails, ...)
   - [SanDisk Ultra Fit](https://geizhals.de/?cat=sm_usb&asuch=SanDisk+Ultra+Fit&v=e&hloc=at&hloc=de&sort=r&bl1_id=30&xf=21106_256)
-    - [SanDisk Ultra Fit 256GB](https://geizhals.de/sandisk-ultra-fit-256gb-sdcz430-256g-g46-a1756560.html) (10 EUR)
-    - [SanDisk Ultra Fit 512GB](https://geizhals.de/sandisk-ultra-fit-512gb-sdcz430-512g-g46-a2221037.html) (20 EUR)
-    - [SanDisk Ultra Fit 1TB](https://geizhals.de/sandisk-ultra-fit-1tb-sdcz430-1t00-g46-a3301288.html) (40 EUR)
+    - [SanDisk Ultra Fit 256GB](https://geizhals.de/sandisk-ultra-fit-256gb-sdcz430-256g-g46-a1756560.html) (40 EUR)
+    - [SanDisk Ultra Fit 512GB](https://geizhals.de/sandisk-ultra-fit-512gb-sdcz430-512g-g46-a2221037.html) (80 EUR)
+    - [SanDisk Ultra Fit 1TB](https://geizhals.de/sandisk-ultra-fit-1tb-sdcz430-1t00-g46-a3301288.html) (180 EUR)
 - cables
   - Audiokabel, 3,5mm Klinke gewinkelt, 2x Cinch gerade, 5m
     - [Audiokabel, Good Connections, 3,5mm Klinke gewinkelt, 2x Cinch gerade, 5m](https://geizhals.de/good-connections-3-5mm-klinke-gewinkelt-composite-audio-kabel-gerade-5m-gc-m0067-a1744435.html) (5 EUR)
