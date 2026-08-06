@@ -270,6 +270,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - envelopes for DIN C4 letters with 2cm height
   - [500 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/185701931365) - 70 EUR
   - [1.000 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/404058621949) - 125 EUR
+  - [1000 St. DIN C4 Faltentaschen braun 130 gr. Versandbriefumschläge 20 mm Falte](https://www.ebay.de/itm/153107397742) - 135 EUR
 - post stamps
   - [Markenbox "Raketenpost", Briefmarke zu 1,80 €, 100er-Box](https://shop.deutschepost.de/markenbox-raketenpost-briefmarke-zu-1-80-eur-100er-box) - 180 EUR
 - labels
