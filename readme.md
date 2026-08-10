@@ -113,7 +113,8 @@ offline-first private p2p chat
 
 note: i assume that all my email accounts are [censored](#censored),
 so i prefer contact via chat
-([ricochet](#ricochet),
+([XMPP](#xmpp),
+[ricochet](#ricochet),
 [session chat](#session-chat),
 ...)
 
