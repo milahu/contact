@@ -118,7 +118,7 @@ so i prefer contact via chat
 [session chat](#session-chat),
 ...)
 
-- milahu@milahu.duckdns.org - my homeserver, but still censored by your email provider
+- milahu@milahu.duckdns.org - my homeserver, but still **censored by your email provider** (yes stupid normie, email censorship is a real problem!)
 - milahu@gmail.com
 - milahu@protonmail.com
 - milahu450@gmail.com
