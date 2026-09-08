@@ -534,6 +534,15 @@ but i hope that they do not censor all of my contact channels
 
 
 
+### all telecommunications are censored
+
+too many normies still rely on email (and other channels of telecommunication),
+but all these channels are censored by secret services (active measures)
+to keep "secret information" secret,
+in effect, to prevent actual revolutions.
+
+
+
 ### prison 2024-12-09
 
 > i have enemies who want me silent or jailed or dead
