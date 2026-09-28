@@ -405,6 +405,10 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://pine64.com/product/pinephone-beta-edition-with-convergence-package/ - 200 usd
   - librem 5: https://puri.sm/products/librem-5/ - 800 usd
     - "The Librem 5 mobile segregates the modem from the system and memory, making it a separate module, a configuration rare in modern cellphones." ([wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones))
+- document scanner
+  - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - DIN A3 - 1620 EUR
+  - [Brother ADS-4300N](https://geizhals.de/brother-ads-4300n-ads4300nre1-a2752788.html) - DIN A4 - 340 EUR
+  - [Brother ADS-2400N](https://geizhals.de/brother-imagecenter-ads-2400n-ads2400nun1-a1387309.html) - DIN A4 - [230 EUR on ebay](https://www.ebay.de/sch/i.html?_nkw=Brother+ADS-2400N&LH_ItemCondition=2020)
 - winter jacket: Condor Summit Softshell - black - XL
   - https://condoroutdoor.com/products/condor-summit-tactical-softshell-jacket?variant=44504186978455 - 130 usd
 - scarf: beechfield morf original - https://beechfield.com/products/b900-morfr-original - black
