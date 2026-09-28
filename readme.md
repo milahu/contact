@@ -312,6 +312,27 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - OS: android (or linux) (ideally a device with open-source drivers, firmware, hardware... aka "military grade security")
   - color: black or grey
   - ports: USB-C, 3.5mm audio jack
+- ebook reader
+  - [PocketBook Color Note, Stormy Sea, 32GB Flash (PB1041-1-WW-B)](https://geizhals.de/pocketbook-color-note-pb1041-1-ww-b-a3340451.html) - 530 EUR
+    - display: 1404x1872
+      - aspect ratio: 4:5
+      - resolution: 227ppi
+      - diagonal: 10.3"
+    - connect: USB-C, microSD, Bluetooth, speaker
+    - Flash: 32GB
+    - OS: Android 12
+    - weight: 390g
+    - size: 246x173.5x6.4mm
+  - [PocketBook InkPad Eo, Mist Grey, 64GB Flash (PB1042-M-WW-B)](https://geizhals.de/pocketbook-inkpad-eo-pb1042-m-ww-b-a3242899.html) - 500 EUR
+    - display: 1860x2480
+      - aspect ratio: 3:4
+      - resolution: 301ppi
+      - diagonal: 10.3"
+    - connect: USB-C, microSD, Bluetooth, WiFi, camera, microphone, speaker
+    - Flash: 64GB
+    - OS: Android 11
+    - weight: 470g
+    - size: 226x191x7mm
 - laptop
   - brand: Lenovo Legion
   - CPU:
