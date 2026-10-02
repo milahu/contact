@@ -400,6 +400,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - USB mouse: [Cherry GENTIX Silent](https://geizhals.de/cherry-gentix-silent-schwarz-jm-0310-2-a1711766.html)
 - shelf
   - [shelfplaza HOME Schwerlastregal verzinkt - 180x100x60cm](https://www.ebay.de/itm/175779446534?var=475177700265) - 80 eur - 6-8 mm HDF boards
+- cabinet, locker
+  - [Ondis24 Werkstatt Hängeschrank Metall Werkzeugschrank abschließbar 80x60x19cm](https://www.ebay.de/itm/160996567001) - 70 eur
+    - air circulation via holes in backside
 - phone
   - [wikipedia: List of open-source mobile phones](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones)
   - [ChatGPT: Smartphone Baseband Safety](doc/ChatGPT-Smartphone-Baseband-Safety.md)
