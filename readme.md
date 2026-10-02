@@ -411,6 +411,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://pine64.com/product/pinephone-beta-edition-with-convergence-package/ - 200 usd
   - librem 5: https://puri.sm/products/librem-5/ - 800 usd
     - "The Librem 5 mobile segregates the modem from the system and memory, making it a separate module, a configuration rare in modern cellphones." ([wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones))
+- audio player
+  - [Intenso Video Scooter BT 64GB schwarz](https://geizhals.de/intenso-video-scooter-bt-64gb-schwarz-3717490-a3914957.html) - 36 eur
+    - note: this player has no internal memory, so its just a player with a microSD card slot, for cards up to 64GB
 - document scanner
   - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - DIN A3 - 1620 EUR
   - [Brother ADS-4300N](https://geizhals.de/brother-ads-4300n-ads4300nre1-a2752788.html) - DIN A4 - 340 EUR
