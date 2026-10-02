@@ -401,6 +401,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [shelfplaza HOME Schwerlastregal verzinkt - 180x100x60cm](https://www.ebay.de/itm/175779446534?var=475177700265) - 80 eur - 6-8 mm HDF boards
 - phone
   - [wikipedia: List of open-source mobile phones](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones)
+  - [ChatGPT: Smartphone Baseband Safety](doc/ChatGPT-Smartphone-Baseband-Safety.md)
+  - [Google Pixel 10a 256GB fog](https://geizhals.de/google-pixel-10a-256gb-fog-a3729113.html) - 530 eur
   - pinephone: https://pine64.org/devices/pinephone/
     - https://pine64.com/product/pinephone-beta-edition-with-convergence-package/ - 200 usd
   - librem 5: https://puri.sm/products/librem-5/ - 800 usd
