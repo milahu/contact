@@ -412,7 +412,11 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - librem 5: https://puri.sm/products/librem-5/ - 800 usd
     - "The Librem 5 mobile segregates the modem from the system and memory, making it a separate module, a configuration rare in modern cellphones." ([wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones))
 - audio player
+  - [AGPtek A02 schwarz 64GB](https://geizhals.de/agptek-a02-8gb-schwarz-a1406764.html) - 38 eur
+    - pro: audio formats: AAC, APE, FLAC, MP3, OGG/​Vorbis, WAV, WMA
+    - note: this player has no internal memory, so its just a player with a microSD card slot, for cards up to 64GB
   - [Intenso Video Scooter BT 64GB schwarz](https://geizhals.de/intenso-video-scooter-bt-64gb-schwarz-3717490-a3914957.html) - 36 eur
+    - con: audio formats: MP3, WMA
     - note: this player has no internal memory, so its just a player with a microSD card slot, for cards up to 64GB
 - document scanner
   - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - DIN A3 - 1620 EUR
