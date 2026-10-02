@@ -376,6 +376,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - CPU: AMD Ryzen Embedded V1500B, 4C/8T, 2.20GHz, 4MiB+2MiB Cache, 15W TDP, 12-25W cTDP, Codename "Great Horned Owl" (Zen, GF 14nm)
 - USB sticks
   - useful for linux live distros (tails linux, nixos-tails, ...)
+  - [Patriot RAGE R550 1TB, USB-A + USB-C, USB 3.2](https://geizhals.de/patriot-rage-r550-1tb-pe1tr550dsad-a3303343.html) - 100 eur
   - [SanDisk Ultra Fit](https://geizhals.de/?cat=sm_usb&asuch=SanDisk+Ultra+Fit&v=e&hloc=at&hloc=de&sort=r&bl1_id=30&xf=21106_256)
     - [SanDisk Ultra Fit 256GB](https://geizhals.de/sandisk-ultra-fit-256gb-sdcz430-256g-g46-a1756560.html) (40 EUR)
     - [SanDisk Ultra Fit 512GB](https://geizhals.de/sandisk-ultra-fit-512gb-sdcz430-512g-g46-a2221037.html) (80 EUR)
