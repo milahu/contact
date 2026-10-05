@@ -403,7 +403,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - cabinet, locker
   - [Ondis24 Werkstatt Hängeschrank Metall Werkzeugschrank abschließbar 80x60x19cm](https://www.ebay.de/itm/160996567001) - 70 eur
     - air circulation via holes in backside
-- phone
+- mobile phone
   - [wikipedia: List of open-source mobile phones](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones)
   - [ChatGPT: Smartphone Baseband Safety](doc/ChatGPT-Smartphone-Baseband-Safety.md)
   - [Google Pixel 10a 256GB fog](https://geizhals.de/google-pixel-10a-256gb-fog-a3729113.html) - 530 eur
