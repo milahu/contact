@@ -411,6 +411,10 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://pine64.com/product/pinephone-beta-edition-with-convergence-package/ - 200 usd
   - librem 5: https://puri.sm/products/librem-5/ - 800 usd
     - "The Librem 5 mobile segregates the modem from the system and memory, making it a separate module, a configuration rare in modern cellphones." ([wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones))
+- home phone: corded VoIP phone
+  - [Yealink SIP-T43U](https://geizhals.de/yealink-sip-t43u-a2579786.html) - 120 EUR - used from 80 EUR
+    - all Yealink phones support [recording calls to USB drives](https://support.interactivetel.com/hc/en-us/articles/20411441964308-How-To-Record-Calls-onto-a-USB-Drive-on-Yealink-Phones):
+      "Yealink phones have two methods for manual recording: on-demand recording during a call or **automatic recording once a call is set up**."
 - audio player
   - [AGPtek A02 schwarz 64GB](https://geizhals.de/agptek-a02-8gb-schwarz-a1406764.html) - 38 eur
     - pro: audio formats: AAC, APE, FLAC, MP3, OGG/​Vorbis, WAV, WMA
