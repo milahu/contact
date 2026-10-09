@@ -441,6 +441,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - backpack large - for longer trips
   - [Rucksack Mil-Tec Recom 88L schwarz](https://www.ebay.de/sch/i.html?_nkw=Rucksack+Mil-Tec+Recom&_blrs=spell_auto_correct) - 80 EUR
   - [Rucksack BWuM Aviator 80L schwarz](https://www.ebay.de/itm/326429387913?var=515542932536) - 80 EUR
+- camping mat - for longer trips
+   - [Brandit Isomatte Molle faltbar schwarz 200x54cm](https://www.ebay.de/itm/324943424816?var=513921003460) - 30 EUR
 - hard drives
   - 24 TB
     - https://geizhals.de/toshiba-s300-ai-surveillance-24tb-mg11aca24te-v-a3702476.html - 850 eur
