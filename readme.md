@@ -454,8 +454,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://geizhals.de/seagate-ironwolf-pro-nas-hdd-rescue-24tb-st24000nt002-a3120752.html - 970 eur
     - https://geizhals.de/toshiba-cloud-scale-capacity-mg11aca-24tb-mg11aca24te-a3430273.html - 930 eur
     - https://geizhals.de/western-digital-wd-purple-pro-24tb-wd241purp-a3677558.html - 1000 eur
-- usb hub: 7 port, USB-A plug
-  - https://geizhals.de/digitus-office-hub-da-70241-1-a2447896.html - 30 eur
+- USB hub: 7 port, USB-A plug
+  - [RaidSonic Icy Box IB-HUB1700-U3 USB-Hub, 7x USB-A 3.0, USB-A 3.0 Stecker](https://geizhals.de/raidsonic-icy-box-ib-hub1700-u3-usb-hub-60819-a2584677.html) - 30 EUR
+  - [Digitus Office Hub, USB-Hub, 7x USB-A 3.0, USB-A 3.0 Stecker, 1m Kabel](https://geizhals.de/digitus-office-hub-da-70241-1-a2447896.html) - 30 EUR
 - deep fryer
   - Tefal Oleoclean FR8040 - 3.5 Liter - 2300 Watt - for 1200 Gram food = 2 persons - 100 eur
   - Tefal Oleoclean Compact FR7016 - 2 Liter - 2300 Watt - for 800 Gram food = 1 person - 100 eur
