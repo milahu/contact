@@ -418,6 +418,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Yealink SIP-T43U](https://geizhals.de/yealink-sip-t43u-a2579786.html) - 120 EUR - used from 80 EUR
     - all Yealink phones support [recording calls to USB drives](https://support.interactivetel.com/hc/en-us/articles/20411441964308-How-To-Record-Calls-onto-a-USB-Drive-on-Yealink-Phones):
       "Yealink phones have two methods for manual recording: on-demand recording during a call or **automatic recording once a call is set up**."
+- [ethernet switch, metal case, managed, PoE](https://geizhals.de/?cat=switchgi&xf=12885_Switch%7E13106_RJ-45+PoE%7E13106_zzzallezzz%7E13281_8%7E657_Metallgeh%E4use%7E658_Webinterface)
+  - [TP-Link TL-SG108PE Desktop Gigabit Smart Switch, 8x RJ-45, 64W PoE+](https://geizhals.de/tp-link-tl-sg100-desktop-gigabit-easy-smart-switch-tl-sg108pe-a1447333.html) - 50 EUR
+  - [TP-Link TL-SG1016PE Desktop Gigabit Smart Switch, 16x RJ-45, 150W PoE+](https://geizhals.de/tp-link-tl-sg1000-desktop-gigabit-easy-smart-switch-tl-sg1016pe-a1641618.html) - 120 EUR
 - audio player
   - [AGPtek A02 schwarz 64GB](https://geizhals.de/agptek-a02-8gb-schwarz-a1406764.html) - 38 eur
     - pro: audio formats: AAC, APE, FLAC, MP3, OGG/​Vorbis, WAV, WMA
