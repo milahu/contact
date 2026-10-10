@@ -374,13 +374,16 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - Intern: 4x 2.5"/3.5" SATA 6Gb/s (Hot-Swap)
     - RAID-Level: 0/​1/​5/​6/​10/​JBOD
     - CPU: AMD Ryzen Embedded V1500B, 4C/8T, 2.20GHz, 4MiB+2MiB Cache, 15W TDP, 12-25W cTDP, Codename "Great Horned Owl" (Zen, GF 14nm)
-- USB sticks
+- USB flash drives
   - useful for linux live distros (tails linux, nixos-tails, ...)
-  - [Patriot RAGE R550 1TB, USB-A + USB-C, USB 3.2](https://geizhals.de/patriot-rage-r550-1tb-pe1tr550dsad-a3303343.html) - 100 eur
+  - [SanDisk Dual Drive, USB-A + USB-C](https://geizhals.de/?cat=sm_usb&xf=8315_SanDisk~8372_%3E%3D512GB~8380_USB-C~8380_USB-A&pagesize=30&sort=r&promode=true)
+    - [SanDisk Ultra Dual Drive Go USB Type-C 1TB schwarz](https://geizhals.de/sandisk-ultra-dual-drive-go-usb-type-c-schwarz-1tb-sdddc3-1t00-g46-a3114387.html) - 130 EUR
+    - [SanDisk Ultra Dual Drive Go USB Type-C 512GB grau](https://geizhals.de/sandisk-ultra-dual-drive-go-usb-type-c-grau-512gb-sdddc3-512g-gm46gy-a3579157.html) - 75 EUR
+    - [SanDisk Ultra Dual Drive Go USB Type-C 512GB schwarz](https://geizhals.de/sandisk-dual-drive-go-512gb-sdddc3-512g-g46-a2249663.html) - 80 EUR
   - [SanDisk Ultra Fit](https://geizhals.de/?cat=sm_usb&asuch=SanDisk+Ultra+Fit&v=e&hloc=at&hloc=de&sort=r&bl1_id=30&xf=21106_256)
-    - [SanDisk Ultra Fit 256GB](https://geizhals.de/sandisk-ultra-fit-256gb-sdcz430-256g-g46-a1756560.html) (40 EUR)
-    - [SanDisk Ultra Fit 512GB](https://geizhals.de/sandisk-ultra-fit-512gb-sdcz430-512g-g46-a2221037.html) (80 EUR)
-    - [SanDisk Ultra Fit 1TB](https://geizhals.de/sandisk-ultra-fit-1tb-sdcz430-1t00-g46-a3301288.html) (180 EUR)
+    - [SanDisk Ultra Fit 256GB](https://geizhals.de/sandisk-ultra-fit-256gb-sdcz430-256g-g46-a1756560.html) - 40 EUR
+    - [SanDisk Ultra Fit 512GB](https://geizhals.de/sandisk-ultra-fit-512gb-sdcz430-512g-g46-a2221037.html) - 90 EUR
+    - [SanDisk Ultra Fit 1TB](https://geizhals.de/sandisk-ultra-fit-1tb-sdcz430-1t00-g46-a3301288.html) - 200 EUR
 - cables
   - Audiokabel, 3,5mm Klinke gewinkelt, 2x Cinch gerade, 5m
     - [Audiokabel, Good Connections, 3,5mm Klinke gewinkelt, 2x Cinch gerade, 5m](https://geizhals.de/good-connections-3-5mm-klinke-gewinkelt-composite-audio-kabel-gerade-5m-gc-m0067-a1744435.html) (5 EUR)
