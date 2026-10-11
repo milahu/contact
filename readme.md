@@ -54,6 +54,9 @@ worst method for my taste.
 im a writer, not a talker.
 i will ignore most calls.
 
+- my telephone number: <a href="tel:+4986215084636">+49 8621 5084 636</a>
+- my telefax number: <a href="tel:+4986215084644">+49 8621 5084 644</a>
+
 
 
 ## onion
