@@ -281,8 +281,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Etiketten Bögen weiß auf DIN A4 selbstklebend von Etkettenworld BV EW1-EW21 - 105 x 57 mm](https://www.ebay.de/itm/151894265732?var=451083662681) - 10 EUR
 - food: ruminant meat: beef, lamb, goat, venison, ...
   - canned beef
-    - [12x Dreistern Rindfleisch im eigenen Saft 400g](https://www.ebay.de/itm/406684029113) - 80 eur - 6 servings
-    - [12x Dreistern Rindfleisch im eigenen Saft 400g](https://www.ebay.de/itm/257363427423) - 80 eur - 6 servings
+    - [Dreistern Rindfleisch im eigenen Saft - 400 Gramm - Rein Rind - Pure Beef](https://www.ebay.de/itm/406650249507) - 12x = 85 EUR - 6x = 46 EUR
+    - [Rindfleisch im eigenen Saft 97% pure Beef 12x400gr Dosen - Rein Rind - Pure Beef](https://www.ebay.de/itm/227026395114) - 100 EUR
+    - [Rindfleisch im eigenen Saft 97% pure Beef 6x400gr Dose - Rein Rind - Pure Beef](https://www.ebay.de/itm/124977000866) - 55 EUR
   - pure bone broth powder
     - [Knochenbrühe Pulver vom Weiderind 500g](https://www.amazon.de/dp/B0F3PCHB3K) - 45 eur - 50 servings
     - [Carnivoro Knochenbrühe Pulver vom schwedischen Rind 500g](https://www.amazon.de/dp/B0F79KYWQN) - 55 eur - 50 servings
