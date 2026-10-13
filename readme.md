@@ -441,12 +441,15 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [AGPtek A02 schwarz 64GB](https://geizhals.de/agptek-a02-8gb-schwarz-a1406764.html) - 38 eur
     - pro: audio formats: AAC, APE, FLAC, MP3, OGG/​Vorbis, WAV, WMA
     - note: this player has no internal memory, so its just a player with a microSD card slot, for cards up to 64GB
+    - SD card
+      - [PNY Pro Elite R100/W60 64GB Kit, UHS-I U3, A1, Class 10](https://geizhals.de/pny-r100-w90-microsdxc-pro-elite-64gb-kit-p-sdu64gv31100pro-ge-a2074726.html) - 13 EUR
   - [Intenso Video Scooter BT 64GB schwarz](https://geizhals.de/intenso-video-scooter-bt-64gb-schwarz-3717490-a3914957.html) - 36 eur
     - con: audio formats: MP3, WMA
     - note: this player has no internal memory, so its just a player with a microSD card slot, for cards up to 64GB
 - headphones, in-ear
   - [Panasonic RP-HJE125E schwarz](https://geizhals.de/panasonic-rp-hje125e-schwarz-rp-hje125e-k-a949251.html) - 8 eur
   - [Sony MDR-EX15LP schwarz](https://geizhals.de/sony-mdr-ex15lp-schwarz-a1063114.html) - 10 eur
+  - [JBL Tune 110 schwarz](https://geizhals.de/jbl-t110-schwarz-a1542929.html) - with microphone - 10 EUR
 - document scanner
   - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - DIN A3 - 1620 EUR
   - [Brother ADS-4300N](https://geizhals.de/brother-ads-4300n-ads4300nre1-a2752788.html) - DIN A4 - 340 EUR
