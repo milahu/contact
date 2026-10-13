@@ -405,9 +405,14 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Olympus OM System WS-883](https://geizhals.de/olympus-om-system-ws-883-v420340be000-a2925663.html) - 90 EUR
 - audio microphone
   - [Rode Lavalier GO schwarz](https://geizhals.de/r-de-lavalier-go-a2113082.html) - 60 EUR
+    - fur windshield 1cm black
+      - [Vortexline Fellwindschutz Für Lavalier-Mikrofon, 0.5-1.2 cm, Schwarz, 5x](https://geizhals.de/6790579085) - 5 EUR
+      - [LucyStudio 1cm Lavalier-Mikrofon Fellwindschutz, 2x](https://geizhals.de/2206938563) - 7 EUR
   - [Rode Lavalier GO weiß](https://geizhals.de/r-de-lavalier-go-weiss-400600026-a2302925.html) - 60 EUR
-    - [Rode Lavalier GO White](https://www.thomann.de/de/rode_lavalier_go_white.htm) - 50 EUR
-    - [Rycote Wind Screen Mini White, 2x](https://www.thomann.de/de/rycote_wind_screen_mini_white.htm) - 32 EUR
+    - fur windshield 1cm white
+      - [Vortexline Fellwindschutz Für Lavalier-Mikrofon, 0.5-1.2 cm, Weiß, 5x](https://geizhals.de/6790578984) - 5 EUR
+  - adapter cable
+    - [Greluma ZL1125LUM, 2x 30cm 3,5mm TRS Klinkenkabel, 90 Grad Winkelstecker auf gerade Buchse](https://geizhals.de/5766574493) - 7 EUR
 - FTTH fiber internet connection, 1000 Mbitps download, 500 Mbitps upload
   - this is not available in my home until year 2027 (i guess SHTF comes before 2027...)
     so this connection has to be in someone else's home, where i can house my server (homeserver, selfhosting, p2p, bittorrent, http, nas)
