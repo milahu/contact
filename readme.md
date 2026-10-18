@@ -316,6 +316,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - OS: android (or linux) (ideally a device with open-source drivers, firmware, hardware... aka "military grade security")
   - color: black or grey
   - ports: USB-C, 3.5mm audio jack
+- tablet, IP68-waterproof
+  - https://geizhals.de/?cmp=3461841&cmp=3461817&cmp=3461843&cmp=3461831&cmp=3305275&cmp=3305279&cmp=3461842&cmp=3461850&active=1
 - ebook reader
   - [PocketBook Color Note, Stormy Sea, 32GB Flash (PB1041-1-WW-B)](https://geizhals.de/pocketbook-color-note-pb1041-1-ww-b-a3340451.html) - 530 EUR
     - display: 1404x1872
@@ -404,11 +406,13 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - audio recorder
   - [Olympus OM System WS-883](https://geizhals.de/olympus-om-system-ws-883-v420340be000-a2925663.html) - 90 EUR
 - audio microphone
-  - [Rode Lavalier GO schwarz](https://geizhals.de/r-de-lavalier-go-a2113082.html) - 60 EUR
+  - [Sennheiser ME 2](https://geizhals.de/sennheiser-me-2-508935-a2878896.html) - 105 EUR - Frequenzbereich: 30Hz-20kHz, SPL max: 130dB
+  - [Sennheiser MKE 2 EW](https://geizhals.de/sennheiser-mke-2-ew-09832-a481905.html) - 310 EUR - Frequenzbereich: 20Hz-20kHz, Nennimpedanz: 1000Ω, SPL max: 142dB
+  - [Rode Lavalier GO schwarz](https://geizhals.de/r-de-lavalier-go-a2113082.html) - 60 EUR - Frequenzbereich: 20Hz-20kHz, Nennimpedanz: 3000Ω, SPL max: 110dB
     - fur windshield 1cm black
       - [Vortexline Fellwindschutz Für Lavalier-Mikrofon, 0.5-1.2 cm, Schwarz, 5x](https://geizhals.de/6790579085) - 5 EUR
       - [LucyStudio 1cm Lavalier-Mikrofon Fellwindschutz, 2x](https://geizhals.de/2206938563) - 7 EUR
-  - [Rode Lavalier GO weiß](https://geizhals.de/r-de-lavalier-go-weiss-400600026-a2302925.html) - 60 EUR
+  - [Rode Lavalier GO weiß](https://geizhals.de/r-de-lavalier-go-weiss-400600026-a2302925.html) - 60 EUR - Frequenzbereich: 20Hz-20kHz, Nennimpedanz: 3000Ω, SPL max: 110dB
     - fur windshield 1cm white
       - [Vortexline Fellwindschutz Für Lavalier-Mikrofon, 0.5-1.2 cm, Weiß, 5x](https://geizhals.de/6790578984) - 5 EUR
   - adapter cable
@@ -450,6 +454,16 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Panasonic RP-HJE125E schwarz](https://geizhals.de/panasonic-rp-hje125e-schwarz-rp-hje125e-k-a949251.html) - 8 eur
   - [Sony MDR-EX15LP schwarz](https://geizhals.de/sony-mdr-ex15lp-schwarz-a1063114.html) - 10 eur
   - [JBL Tune 110 schwarz](https://geizhals.de/jbl-t110-schwarz-a1542929.html) - with microphone - 10 EUR
+- headphones, over-ear
+  - [Technics EAH-DJ1200](https://geizhals.de/technics-eah-dj1200-schwarz-a2203820.html) - 150 EUR - foldable, detachable cable with 3.5mm plug on both ends, 8Hz-30kHz, 45Ω, 106dB, 40mm, 233g
+  - [AKG K371](https://geizhals.de/akg-k371-schwarz-a2109792.html) - 150 EUR - foldable, detachable cable with proprietary plug, 5Hz-40kHz, 32Ω, 114dB, 50mm, 255g
+  - [...](https://geizhals.de/?cmp=2109792&cmp=49452&cmp=2203820&cmp=2660982&cmp=2660980&cmp=2579402&cmp=2153968&cmp=1065167&cmp=2413268&cmp=2109825&cmp=1968852&cmp=1065193&active=1)
+- audio cables
+  - 3.5mm Y-cable
+    - [Klotz AYB-4](https://geizhals.de/klotz-ayb-4-a1959297.html) - 10 EUR
+- FM radio transmitter
+  - [Cuifati FM Transmitter Audio Adapter Car Kit, Wireless in Car Radio Transmitter Eingebauter 3,5-mm-Aux-Anschluss für Auto 6s 5 SE Smartphones MP3 MP4 Audio-Player](https://www.amazon.de/Transmitter-Eingebauter-5-mm-Aux-Anschluss-Smartphones-Audio-Player/dp/B0C317X9V4) - 12 EUR - 10m, about 12.5microWatt, USB-powered
+  - [Jectse Digitales FM-Sendermodul, 2000 M 500 MW FM-Stereosender, 3,5-mm-Anschluss, USB-C-Anschluss, für Kleine -Radiosender, Telefon, PC, MP3 (Black)](https://www.amazon.de/Jectse-FM-Sendermodul-FM-Stereosender-5-mm-Anschluss-USB-C-Anschluss-BLACK/dp/B0GGC41TQD) - 35 EUR - 2000m, 0.5W, USB-powered, external antenna
 - document scanner
   - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - DIN A3 - 1620 EUR
   - [Brother ADS-4300N](https://geizhals.de/brother-ads-4300n-ads4300nre1-a2752788.html) - DIN A4 - 340 EUR
