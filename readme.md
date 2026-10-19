@@ -131,7 +131,7 @@ so i prefer contact via chat
 - milahu450@gmail.com
 - milahu2@mail.ru
 
-my PGP public key is in [pgp.txt](pgp.txt)
+my [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) public key is in [pgp.txt](pgp.txt)
 
 
 
