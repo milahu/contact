@@ -2,6 +2,8 @@
 
 how to contact milahu
 
+note: most channels are [censored](#censored)
+
 
 
 ## private
