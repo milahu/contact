@@ -52,10 +52,14 @@ if you see my face in public, feel free to say "hey mila!"
 
 worst method for my taste.
 im a writer, not a talker.
-i will ignore most calls.
 
-- my telephone number: <a href="tel:+4986215084636">+49 8621 5084 636</a>
-- my telefax number: <a href="tel:+4986215084644">+49 8621 5084 644</a>
+i will ignore most calls,
+but you can leave voice messages on my answering machine.
+maybe i will listen to your voice messages,
+and maybe i will do something, most probably write something to somewhere...
+
+- my telephone number: <a href="tel:004986215084636">004986215084636</a> = +49 8621 508 4636
+- my telefax number: <a href="tel:004986215084644">004986215084644</a> = +49 8621 508 4644
 
 
 
