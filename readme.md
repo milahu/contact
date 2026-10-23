@@ -470,10 +470,14 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - FM radio transmitter
   - [Cuifati FM Transmitter Audio Adapter Car Kit, Wireless in Car Radio Transmitter Eingebauter 3,5-mm-Aux-Anschluss für Auto 6s 5 SE Smartphones MP3 MP4 Audio-Player](https://www.amazon.de/Transmitter-Eingebauter-5-mm-Aux-Anschluss-Smartphones-Audio-Player/dp/B0C317X9V4) - 12 EUR - 10m, about 12.5microWatt, USB-powered
   - [Jectse Digitales FM-Sendermodul, 2000 M 500 MW FM-Stereosender, 3,5-mm-Anschluss, USB-C-Anschluss, für Kleine -Radiosender, Telefon, PC, MP3 (Black)](https://www.amazon.de/Jectse-FM-Sendermodul-FM-Stereosender-5-mm-Anschluss-USB-C-Anschluss-BLACK/dp/B0GGC41TQD) - 35 EUR - 2000m, 0.5W, USB-powered, external antenna
-- document scanner
-  - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - DIN A3 - 1620 EUR
-  - [Brother ADS-4300N](https://geizhals.de/brother-ads-4300n-ads4300nre1-a2752788.html) - DIN A4 - 340 EUR
-  - [Brother ADS-2400N](https://geizhals.de/brother-imagecenter-ads-2400n-ads2400nun1-a1387309.html) - DIN A4 - [230 EUR on ebay](https://www.ebay.de/sch/i.html?_nkw=Brother+ADS-2400N&LH_ItemCondition=2020)
+- document scanner, DIN A4
+  - [Brother ADS-4300N](https://geizhals.de/brother-ads-4300n-ads4300nre1-a2752788.html) - 340 EUR
+  - [Brother ADS-2400N](https://geizhals.de/brother-imagecenter-ads-2400n-ads2400nun1-a1387309.html) - [230 EUR on ebay](https://www.ebay.de/sch/i.html?_nkw=Brother+ADS-2400N&LH_ItemCondition=2020)
+- document scanner, DIN A3 - for large books
+  - [HP ScanJet Enterprise Flow N9000 sn1](https://geizhals.de/hp-scanjet-enterprise-flow-n9000-sn1-8q4w1a-a3875894.html) - 1800 EUR, 389x253x280mm, 5kg, 600dpi, 80ppm, USB3.0
+  - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - 1800 EUR, 424x120x246mm, 6kg, 600dpi, 60ppm, con: USB2.0 (slow!)
+  - [Avision AD8120](https://geizhals.de/avision-ad8120-000-0871-07g-a2084780.html) - 4000 EUR
+    - [Avision AD8120P](https://www.ebay.de/sch/i.html?_nkw=Avision+AD8120P), sensor: CMOS, min: 460x446x362mm, max: 460x784x362mm, con: 25kg (heavy!), 600dpi, 130ppm @ 300dpi, USB3.2
 - winter jacket: Condor Summit Softshell - black - XL
   - https://condoroutdoor.com/products/condor-summit-tactical-softshell-jacket?variant=44504186978455 - 130 usd
 - scarf: beechfield morf original - https://beechfield.com/products/b900-morfr-original - black
