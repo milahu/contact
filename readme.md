@@ -478,6 +478,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - 1800 EUR, 424x120x246mm, 6kg, 600dpi, 60ppm, con: USB2.0 (slow!)
   - [Avision AD8120](https://geizhals.de/avision-ad8120-000-0871-07g-a2084780.html) - 4000 EUR
     - [Avision AD8120P](https://www.ebay.de/sch/i.html?_nkw=Avision+AD8120P), sensor: CMOS, min: 460x446x362mm, max: 460x784x362mm, con: 25kg (heavy!), 600dpi, 130ppm @ 300dpi, USB3.2
+- monitor
+  - [iiyama ProLite XB2491H-B1, 23.8"](https://geizhals.de/iiyama-prolite-xb2491h-b1-a3753706.html) - 100 EUR, IPS, 1920x1080 (Full HD), 12 Watt, 350cd/​m²
 - winter jacket: Condor Summit Softshell - black - XL
   - https://condoroutdoor.com/products/condor-summit-tactical-softshell-jacket?variant=44504186978455 - 130 usd
 - scarf: beechfield morf original - https://beechfield.com/products/b900-morfr-original - black
