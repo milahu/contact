@@ -461,9 +461,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Sony MDR-EX15LP schwarz](https://geizhals.de/sony-mdr-ex15lp-schwarz-a1063114.html) - 10 eur
   - [JBL Tune 110 schwarz](https://geizhals.de/jbl-t110-schwarz-a1542929.html) - with microphone - 10 EUR
 - headphones, over-ear
-  - [Technics EAH-DJ1200](https://geizhals.de/technics-eah-dj1200-schwarz-a2203820.html) - 150 EUR - foldable, detachable cable with 3.5mm plug on both ends, 8Hz-30kHz, 45Ω, 106dB, 40mm, 233g
-  - [AKG K371](https://geizhals.de/akg-k371-schwarz-a2109792.html) - 150 EUR - foldable, detachable cable with proprietary plug, 5Hz-40kHz, 32Ω, 114dB, 50mm, 255g
-  - [...](https://geizhals.de/?cmp=2109792&cmp=49452&cmp=2203820&cmp=2660982&cmp=2660980&cmp=2579402&cmp=2153968&cmp=1065167&cmp=2413268&cmp=2109825&cmp=1968852&cmp=1065193&active=1)
+  - [Pioneer DJ HDJ-X7 schwarz](https://geizhals.de/pioneer-hdj-x7-schwarz-a1685426.html) - 150 EUR - foldable, detachable cable with 3.5mm plug on both ends, 5Hz-30kHz, 36Ω, 107dB, 50mm, 312g
 - audio cables
   - 3.5mm Y-cable
     - [Klotz AYB-4](https://geizhals.de/klotz-ayb-4-a1959297.html) - 10 EUR
