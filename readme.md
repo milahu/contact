@@ -606,6 +606,10 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - foldable garden rocking ergonomic reclining chair
   - [Relaxliege Sonnenliege Gartenliege Liegestuhl XXL 200kg Belastbar Schaukelliege - beige](https://www.ebay.de/itm/202966273152?var=503142345907) - 70 eur - [image](img/Relaxliege%20Sonnenliege%20Gartenliege%20Liegestuhl%20XXL%20200kg%20Belastbar%20Schaukelliege%20-%20ebay.de%20itm%20202966273152%20-%20beige.webp)
     - this is a cheap + lightweight + small alternative to: [Le Corbusier Chaise longue 1928](https://en.wikipedia.org/wiki/Chaise_Longue_%28Le_Corbusier%29) - 5000 eur - [image](img/le-corbusier-lc4-chaise-lounge-cassina-2.jpg)
+- toy guns - because "read or die!!"
+  - [Spielzeug-Maschinengewehr mit Licht und Sound, FBI, CIA, Polizei 125905913F](https://www.ebay.de/itm/264169325049) - 22 EUR - fake M16 machine gun
+  - [XXL Spielzeug RATTER Gewehr 42 cm mit FUNKEN Sound LICHT Maschinengewehr NEU](https://www.ebay.de/itm/363231278425) - 21 EUR - fake AK47 machine gun
+  - [WOW Maschinengewehr Pistole Kinder AK47 Kalaschnikow Spielzeugpistole](https://www.ebay.de/itm/166376828861) - 28 EUR - fake AR15 machine gun
 
 
 
