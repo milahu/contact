@@ -276,7 +276,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - https://kopierpapieronline.de/p/kopierpapier-go-copy-basic-pro-100-000-blatt-70g-weiss-1-palette-hoher-weissegrad-zuverlaessig-und-gut - 600 EUR / 100K
     - https://kopierpapieronline.de/p/kopierpapier-go-copy-basic-pro-50-000-blatt-70g-weiss-1-2-palette-hoher-weissegrad-zuverlaessig-und-gut - 310 EUR / 50K
 - staples
-  - [Novus Heftklammern Tackerklammern 23/10 SUPER Klammern verzinkt 8000 Stück](https://www.ebay.de/itm/226839719050) - 27 eur
+  - [Novus Heftklammern 23/10 Super, 1000 Stück](https://www.billiger.de/pricelist/2722620430-novus-heftklammern-23-10-blau-1000-st) - ab 2,20 EUR / 1K stück
+  - [Novus Heftklammern 23/10 Super, 1000 Stück](https://www.bueroshop24.de/novus-super-heftklammern-167379) - 2,20 EUR / 1K stück - 72 EUR / 30K stück
 - envelopes for DIN C4 letters with 2cm height
   - [500 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/185701931365) - 70 EUR
   - [1.000 Falten Versand Taschen DIN C4 braun 2 cm Klotz Boden 130g haftklebend](https://www.ebay.de/itm/404058621949) - 125 EUR
