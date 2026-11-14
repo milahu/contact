@@ -579,6 +579,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     - [27l Glühweinkocher Edelstahl Glühweinkessel Glühweintopf Einkochautomat Analog](https://www.ebay.de/itm/383225798567) - 90 eur
 - clothes
   - [SWEATSHIRT *FRUIT OF THE LOOM* KAPUZEN PULLOVER Hoodie - XL - Black](https://www.ebay.de/itm/351836909645?var=621048896027) - 20 eur
+  - [South Park Towelie Strandtuch, offizielles Lizenzprodukt, 76,2 x 152,4 cm](https://www.amazon.de/South-Towelie-Strandtuch-offizielles-Lizenzprodukt/dp/B091X29RHQ) - 112 EUR
 - knives
   - [Haller Combat Dagger schwarzer Dolch Stiefelmesser](https://www.markenmesser24.com/haller-combat-dagger-schwarzer-dolch-stiefelmesser-16645.html) - 30 eur
     - Klingenlänge 180 mm
