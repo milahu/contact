@@ -473,10 +473,11 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Brother ADS-4300N](https://geizhals.de/brother-ads-4300n-ads4300nre1-a2752788.html) - 340 EUR
   - [Brother ADS-2400N](https://geizhals.de/brother-imagecenter-ads-2400n-ads2400nun1-a1387309.html) - [230 EUR on ebay](https://www.ebay.de/sch/i.html?_nkw=Brother+ADS-2400N&LH_ItemCondition=2020)
 - document scanner, DIN A3 - for large books
-  - [HP ScanJet Enterprise Flow N9000 sn1](https://geizhals.de/hp-scanjet-enterprise-flow-n9000-sn1-8q4w1a-a3875894.html) - 1800 EUR, 389x253x280mm, 5kg, 600dpi, 80ppm, USB3.0
-  - [Canon DR-M1060II](https://geizhals.de/canon-imageformula-dr-m1060ii-6049c003-a3167694.html) - 1800 EUR, 424x120x246mm, 6kg, 600dpi, 60ppm, con: USB2.0 (slow!)
-  - [Avision AD8120](https://geizhals.de/avision-ad8120-000-0871-07g-a2084780.html) - 4000 EUR
-    - [Avision AD8120P](https://www.ebay.de/sch/i.html?_nkw=Avision+AD8120P), sensor: CMOS, min: 460x446x362mm, max: 460x784x362mm, con: 25kg (heavy!), 600dpi, 130ppm @ 300dpi, USB3.2
+  - [Ricoh fi-7460](https://geizhals.de/fujitsu-fi-7460-pa03710-b051-a1417915.html) - 2000 EUR,
+    [700 EUR on ebay](https://www.ebay.de/sch/i.html?_nkw=fi-7460&_sacat=0&_from=R40&_trksid=m570.l1313&LH_TitleDesc=0&_udlo=100&_odkw=Ricoh+fi-7460&_osacat=0&_sop=15&LH_PrefLoc=1&_udhi=1500),
+    aka "Fujitsu fi-7460",
+    maximum document size: 304.8 x 431.8 mm (DIN A3 = 297 x 420 mm),
+    [sane-backend: yes](http://www.sane-project.org/sane-backends.html#S-FUJITSU)
 - monitor
   - [iiyama ProLite XB2491H-B1, 23.8"](https://geizhals.de/iiyama-prolite-xb2491h-b1-a3753706.html) - 100 EUR, IPS, 1920x1080 (Full HD), 12 Watt, 350cd/​m²
 - winter jacket: Condor Summit Softshell - black - XL
