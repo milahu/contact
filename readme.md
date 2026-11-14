@@ -505,6 +505,9 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - USB hub: 7 port, USB-A plug
   - [RaidSonic Icy Box IB-HUB1700-U3 USB-Hub, 7x USB-A 3.0, USB-A 3.0 Stecker](https://geizhals.de/raidsonic-icy-box-ib-hub1700-u3-usb-hub-60819-a2584677.html) - 30 EUR
   - [Digitus Office Hub, USB-Hub, 7x USB-A 3.0, USB-A 3.0 Stecker, 1m Kabel](https://geizhals.de/digitus-office-hub-da-70241-1-a2447896.html) - 30 EUR
+- grill
+  - [Tefal OptiGrill+ XL Kontaktgrill](https://www.tefal.de/p/optigrill-xl/7211005210) - 130 EUR,
+    [80 EUR on ebay](https://www.ebay.de/sch/i.html?_nkw=Tefal+OptiGrill%2B+XL)
 - deep fryer
   - Tefal Oleoclean FR8040 - 3.5 Liter - 2300 Watt - for 1200 Gram food = 2 persons - 100 eur
   - Tefal Oleoclean Compact FR7016 - 2 Liter - 2300 Watt - for 800 Gram food = 1 person - 100 eur
