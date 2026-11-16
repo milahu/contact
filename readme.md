@@ -428,6 +428,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - this is not available in my home until year 2027 (i guess SHTF comes before 2027...)
     so this connection has to be in someone else's home, where i can house my server (homeserver, selfhosting, p2p, bittorrent, http, nas)
 - USB mouse: [Cherry GENTIX Silent](https://geizhals.de/cherry-gentix-silent-schwarz-jm-0310-2-a1711766.html)
+- USB remote control
+  - [Xoro AMW100 Airmouse](https://geizhals.de/xoro-amw100-airmouse-acc400403-a1671884.html) - 20 EUR
 - shelf
   - [shelfplaza HOME Schwerlastregal verzinkt - 180x100x60cm](https://www.ebay.de/itm/175779446534?var=475177700265) - 80 eur - 6-8 mm HDF boards
 - cabinet, locker
