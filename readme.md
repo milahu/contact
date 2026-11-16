@@ -486,6 +486,11 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - winter scarf: beechfield morf suprafleece - https://beechfield.com/products/b920-morfr-suprafleecer - black
 - winter gloves
   - https://www.ebay.de/itm/172876817969?var=471655693818 - brown - XL - 25 eur
+  - [Sonia Originelli Lammfell Patchwork Fäustlinge - weiß - XL](https://www.amazon.de/Sonia-Originelli-Patchwork-F%C3%A4ustlinge-Wildleder/dp/B0HMPRCSHH) - 30 EUR
+- work gloves
+  - [DONAU SAFETY Premium Arbeitshandschuhe Driver aus Ziegenleder - weiß - XL](https://www.amazon.de/DONAU-SAFETY-Arbeitshandschuhe-Montagehandschuhe-Schutzhandschuhe/dp/B07LDJ1XF4) - 7 EUR
+  - [DONAU SAFETY Premium Arbeitshandschuhe Driver aus Rindsleder - weiß - XL](https://www.amazon.de/DONAU-SAFETY-Arbeitshandschuhe-Montagehandschuhe-Schutzhandschuhe/dp/B07LDFXHFQ) - 7 EUR
+  - [Safetytex Nappaleder Arbeitshandschuhe Naturfarben - weiß - XL](https://www.amazon.de/Safetytex-Nappaleder-Arbeitshandschuhe-Schwei%C3%9Ferhandschuhe-Montagehandschuhe/dp/B0CQTHMRHM) - 7 EUR
 - backpack medium - for shorter trips
   - [Rucksack Mil-Tec Commando 55L schwarz](https://www.ebay.de/sch/i.html?_nkw=Rucksack+Mil-Tec+Commando) - 60 EUR
   - [Rucksack Mil-Tec GEN II 65L schwarz](https://www.ebay.de/sch/i.html?_nkw=Rucksack+Mil-Tec+GEN+II) - 60 EUR
