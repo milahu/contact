@@ -580,6 +580,14 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - einkochautomat, edelstahl, mit timer, 27 liter, ~2000 watt, mit Einlegeboden
     - [Edelstahl Einkochtopf 27 Liter Glühweintopf Glühweinkocher Einkochautomat 27l](https://www.ebay.de/itm/184370511838) - 74 eur
     - [27l Glühweinkocher Edelstahl Glühweinkessel Glühweintopf Einkochautomat Analog](https://www.ebay.de/itm/383225798567) - 90 eur
+- wall clock, digital
+  - [Technoline WS 8016 Funkwanduhr weiß](https://de.technolinestore.com/en/products/tt-ws-8016)
+    - [ebay: Cube E-Commerce](https://www.ebay.de/itm/377642914408) - 30 EUR
+- wrist watch, digital
+  - [SKMEI Digital Watch 1894](https://www.skmei.com/digital-watch-1894)
+    - [ebay: top.sellerqwer](https://www.ebay.de/itm/227132553716) - 14 EUR
+    - [ebay: ronch6761](https://www.ebay.de/itm/147633680666?var=445874746444) - 14 EUR
+    - [ebay: cclo-526](https://www.ebay.de/itm/318873536921?var=617091081649) - 14 EUR
 - clothes
   - [SWEATSHIRT *FRUIT OF THE LOOM* KAPUZEN PULLOVER Hoodie - XL - Black](https://www.ebay.de/itm/351836909645?var=621048896027) - 20 eur
   - [South Park Towelie Strandtuch, offizielles Lizenzprodukt, 76,2 x 152,4 cm](https://www.amazon.de/South-Towelie-Strandtuch-offizielles-Lizenzprodukt/dp/B091X29RHQ) - 112 EUR
