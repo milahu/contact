@@ -349,15 +349,15 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - laptop
   - brand: Lenovo Legion
   - CPU:
-    - AMD Ryzen 5 5600H 6C/12T
-    - AMD Ryzen 7 4800H 8C/16T
-  - RAM: 32GB (16GB is not enough)
+    - Intel Core i9-14900HX 24C/32T
+    - ...
+  - RAM: 32GB or more
     - 32GB DDR4-3200 RAM kits:
       - [G.Skill RipJaws SO-DIMM 32GB Kit, DDR4-3200, CL22-22-22](https://geizhals.de/g-skill-ripjaws-so-dimm-kit-32gb-f4-3200c22d-32grs-a2349373.html) - 80 EUR
       - [Crucial SO-DIMM 32GB Kit, DDR4-3200, CL22-22-22](https://geizhals.de/crucial-so-dimm-kit-32gb-ct2k16g4sfra32a-a2326324.html) - 80 EUR
-  - SSD: 512GB or more
-  - dedicated GPU with large VRAM (8GB or more) for AI inference: RTX 3070 (RTX 3080, RTX 4060, RTX 4070, RTX 4080, RTX 4090, ...)
-  - used from 700 EUR ([ebay.de](https://www.ebay.de/sch/177/i.html?_nkw=Lenovo+Legion+RTX+%223070%22&_from=R40&_sop=15))
+  - SSD: 1TB or more
+  - dedicated GPU with large VRAM (16GB or more) for AI inference: RTX 4090, RTX 5080, RTX 5090, ...
+  - used from 3000 EUR ([ebay.de](https://www.ebay.de/sch/177/i.html?_nkw=Lenovo+Legion+RTX+%224090%22&_from=R40&_sop=15))
   - external HDD case: [AXAGON Aline Box Festplattengehäuse, schwarz, 3.5", USB-B 3.0](https://geizhals.de/axagon-aline-box-ee35-xa3-a2606458.html) - 20 EUR
     - SATA 2 = 3 Gbitps = fast enough for HDD drives (SSD drives are too expensive, 4x more expensive than HDD)
     - typical CMR HDD sequential read speeds are around [200 to 300 MB/s](https://www.tomshardware.com/features/hdd-benchmarks-hierarchy) = 1.6 to 2.4 Gbit/s
@@ -366,7 +366,7 @@ before you send anything, please ask if my [offline](#offline) address is up to 
 - desktop PC
   - CPU: 6C/12T or 8C/16T: AMD Ryzen, ...
   - RAM: 32GB
-  - dedicated GPU with large VRAM (8GB or more) for AI inference and training
+  - dedicated GPU with large VRAM (16GB or more) for AI inference and training
   - PSU: be quiet
   - i prefer laptops for their lower power draw, i dont need the computing power of a desktop PC
 - NAS server
