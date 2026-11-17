@@ -544,37 +544,68 @@ before you send anything, please ask if my [offline](#offline) address is up to 
   - [Komposteimer 5 Liter Edelstahl silber](https://www.ebay.de/itm/177331149850?var=476986673708) - 30 eur
   - [Edelstahleimer mit Deckel 12L](https://www.ebay.de/sch/i.html?_nkw=edelstahl+eimer+deckel+12)
 - supplements
+  - multivitamin
+    - [Now Foods, ADAM, Multivitamine für Männer, 90 Kapseln](https://www.ebay.de/itm/397736024360) - 22 eur - MedpakShop@ebay
+    - [NOW Foods, ADAM, Superior Men's Multi, 90 Softgels](https://www.iherb.com/pr/now-foods-adam-superior-men-s-multi-90-softgels/76072) - 25 usd
+    - [Now Foods, EVE, Multivitamin für Frauen, 120 Kapseln](https://www.ebay.de/itm/398416195920) - 30 EUR - MedpakShop@ebay
+  - B vitamins
+    - [NOW Foods, B-100, Vitamin B-Komplex, 100 mg, 100 Tabletten](https://www.ebay.de/itm/393725225052) - 24 EUR - MedpakShop@ebay
+    - [NOW Foods, B-100, Vitamin B Komplex, 100 mg, 100 Kapseln](https://www.ebay.de/itm/396974795589) - 22 EUR - MedpakShop@ebay
+  - lithium orotate 5mg
+    - [lithium orotate tablets](https://de.iherb.com/search?kw=lithium+orotate+tablets+-capsules&soa=true)
+      - [KAL, Lithium Orotate, Lemon Lime , 5 mg, 90 Micro Tablets](https://de.iherb.com/pr/kal-lithium-orotate-lemon-lime-5-mg-90-micro-tablets/78419) - 
+    - [lithium orotate capsules](https://de.iherb.com/search?kw=lithium+orotate+capsules&soa=true)
+      - [Nutricost, Lithium Orotate, 5 mg, 120 Capsules](https://www.iherb.com/pr/nutricost-lithium-orotate-5-mg-120-capsules/135520) - 13 usd
+      - [Nutricost, Lithium Orotate, 10 mg, 120 Capsules](https://de.iherb.com/pr/nutricost-lithium-orotate-10-mg-120-capsules/156686) - 19 EUR
   - Vitamin C powder 1kg
-  - Korean Ginseng tablets
-    - [Koreanischer Ginseng 350 mg Tab – Energie, Fokus, Vitalität, Ginsenoside Support](https://www.ebay.de/itm/155279204628?var=455476041597) - 11 eur
+    - [Wish Vitamin C Pulver L-Ascorbinsäure 1kg](https://www.ebay.de/itm/393846296430) - 11 EUR - MedpakShop@ebay
+  - zinc
+    - [NOW Foods, L-OptiZinc, 30 mg, 100 Kapseln](https://www.ebay.de/itm/393725233715) - 10 EUR - MedpakShop@ebay
+    - [NOW Foods, L-OptiZinc, 30 mg, 100 Capsules](https://de.iherb.com/pr/now-foods-l-optizinc-100-veg-capsules/738) - 10 EUR
   - Vitamin D tablets
-    - [Vitamin D3 10000 IE + K2 MK7 200 mcg Tab – Immunsystem, Knochen, Muskeln & Zähne](https://www.ebay.de/itm/156256411729?var=457257031824) - 10 eur
-  - choline - for detox, liver support
-    - [Cholin + Inositol Tabletten – Leberfunktion, Stimmung, Fokus & Gehirn Support](https://www.ebay.de/itm/155935066469?var=456356248518) - 11 eur
-  - liver support, for detox
-    - [Leber Komplex I 180 Kapseln I mit Mariendistel, Artischocke, Curcuma & Löwenzahn](https://www.ebay.de/itm/116366261171) - 22 eur
-      - Milk thistle: Supports liver function to process toxins
-  - Kombucha
-    - [Kombucha Teepilz f 2L 80gr. staatlich kontrollierte Zucht - März 2020 geprüft](https://www.ebay.de/itm/112917015637) - 10 eur
-  - NAC = N-Acetyl Cysteine - for detox: Boosts glutathione, the body’s master antioxidant, to detoxify nitrosamines and heavy metals
-    - [Vitalmax NAC (N-Acetyl-L-Cystein) Pulver, 300 g](https://www.ebay.de/itm/396615209709) - 15 eur
+    - [Green Labs Nutrition, Vitamin D3 10000 IE = 250 mcg + K2 MK-7 200 mcg, 120 Tabletten](https://www.ebay.de/itm/156256411729?var=457257031824) - 11 EUR
+    - [Steiner, Vitamin D3 10000IU = 250 mcg + Vitamin K2 200mcg MK-7, 180 Tabletten](https://www.ebay.de/itm/201944578501) - 15 EUR
+    - [Acential Labs, Vitamin D3 10000 IE = 250 mcg + K2 200mcg MK7 - 120 Kapseln](https://www.ebay.de/itm/318067466701) - 14 EUR
+    - [Micro Ingredients, Vitamin D3 & K2, 10000 IU = 250 mcg D3, 200 mcg K2 MK-7, 300 Softgels](https://de.iherb.com/pr/micro-ingredients-vitamin-d3-k2-300-softgels/148171) - 37 EUR
+    - [Micro Ingredients, Vitamin D3 & K2, 10000 IU = 250 mcg D3, 200 mcg K2 MK-7, 90 Softgels](https://de.iherb.com/pr/micro-ingredients-vitamin-d3-k2-90-softgels/162421) - 20 EUR
+  - Magnesium
+    - [NOW Foods, Magnesium Glycinate, 100mg, 180 Tabs](https://www.ebay.de/itm/394567707129) - 21 EUR - MedpakShop@ebay
+    - [NOW Foods, Magnesium Glycinate, 180 Tablets, 100 mg per Tablet](https://de.iherb.com/pr/now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet/88819) - 25 EUR
+  - minerals
+    - [Now Foods, Full Spectrum Mineral Caps, 120 Kapseln](https://www.ebay.de/itm/398423504974) - 20 EUR - MedpakShop@ebay
+  - iodine - for thyroid gland = more energy
+    - [NOW Foods, Potassium Plus Iodine, 180 Tablets](https://de.iherb.com/pr/now-foods-potassium-plus-iodine-180-tablets/767) - 13 EUR
+    - [Swanson Kelp (Jod) 225mcg 250 Tabletten](https://www.ebay.de/itm/393954964322) - 17 eur
   - Chlorella - for detox: Binds heavy metals and enhances elimination
-    - [MyVita Chlorella 250 mg, 1000 Tabletten](https://www.ebay.de/itm/394433300747) - 16 eur
+    - [Now Foods, Chlorella, 1000 mg, 120 Tabletten](https://www.ebay.de/itm/920029541112) - 19 EUR - MedpakShop@ebay
+    - [NOW Foods, Chlorella, 1000 mg, 120 Tablets](https://de.iherb.com/pr/now-foods-chlorella-120-tablets-1-g-per-tablet/512) - 22 EUR
+  - NAC = N-Acetyl Cysteine - for detox: Boosts glutathione, the body’s master antioxidant, to detoxify nitrosamines and heavy metals
+    - [Vitalmax NAC (N-Acetyl-L-Cystein) Pulver, 300 g](https://www.ebay.de/itm/396615209709) - 15 eur - MedpakShop@ebay
+    - [Nutricost, NAC, Unflavored , 8.9 oz (250 g)](https://de.iherb.com/pr/nutricost-nac-unflavored-8-9-oz-250-g/151016) - 30 EUR
+    - [NOW Foods, NAC Pure Powder, 4 oz (113 g)](https://de.iherb.com/pr/now-foods-nac-pure-powder-4-oz-113-g/114824) - 22 EUR
+  - liver support, for detox: milk thistle, artichoke, dandelion, turmeric, choline, carnitine, arginine, ...
+    - [Leber Komplex, 180 Kapseln, Mariendistel, Artischocke, Curcuma, Löwenzahn](https://www.ebay.de/itm/116366261171) - 22 eur
+      - Milk thistle: Supports liver function to process toxins
+    - [Aliness, Leber Regeneration Komplex, 90 Kapseln](https://www.ebay.de/itm/395907578405) - 18 EUR - MedpakShop@ebay
+    - [Golden Tree Leberkomplex - 60 Kapseln](https://www.ebay.de/itm/395808274107) - 40 EUR - MedpakShop@ebay
+    - Chromium Picolinate - todo why? detox?
+      - [Swanson, Chromium Picolinate, 200 mcg, 200 Kapseln](https://www.ebay.de/itm/393818415452) - 7 EUR - MedpakShop@ebay
+    - choline - for detox, liver support
+      - [NOW FOODS, 250 mg Choline, 250 mg Inositol, 100 Kapseln](https://www.ebay.de/itm/393725210464) - 12 EUR - MedpakShop@ebay
+      - [Green Labs Nutrition, 250 mg Choline, 250 mg Inositol, 100 Tabletten](https://www.ebay.de/itm/155935066469?var=456356248518) - 11 eur
   - DMSO - for healing of joints etc
     - [ChemWorld DMSO-Gel 50% mit Aloe Vera, 120ml](https://www.ebay.de/itm/397735839442) - 16 eur
     - [DMSO 99,9% Reinheit nach ph. eur. 1000 ml in pharma Veral Glas braun](https://www.ebay.de/itm/286742132650) - 27 eur
-  - multivitamin
-    - [Now Foods ADAM (Multivitamine für Männer) - 90 Kapseln](https://www.ebay.de/itm/397736024360) - 22 eur
-    - [NOW Foods, ADAM™, Superior Men's Multi, 90 Softgels](https://www.iherb.com/pr/now-foods-adam-superior-men-s-multi-90-softgels/76072) - 25 usd
-  - lithium orotate 5mg
-    - [Nutricost, Lithium Orotate, 5 mg, 120 Capsules](https://www.iherb.com/pr/nutricost-lithium-orotate-5-mg-120-capsules/135520) - 13 usd
-  - iodine - for thyroid gland = more energy
-    - [Swanson Kelp (Jod) 225mcg 250 Tabletten](https://www.ebay.de/itm/393954964322) - 17 eur
   - neem oil - to fight lice, etc
     - [Natura Germania® Neemöl (Niemöl) 1L - mit Waschnuß-Extrakt - fertig gemischt](https://www.ebay.de/itm/256438914556) - 30 eur
     - [Neemöl mit Emulgator 1000ml - fertig für sofortige Anwendung von wesentlich.](https://www.ebay.de/itm/134966661292) - 30 eur
   - Lactoferrine - todo why
-    - [Bandini® Lactoferrin 60 Kapseln - 200Mg Laktoferrin + 60Mg Vitamin C Je Tagesdos](https://www.ebay.de/itm/177832599402) - 22 eur
+    - [Bandini, Lactoferrin 60 Kapseln - 200Mg Laktoferrin + 60Mg Vitamin C Je Tagesdos](https://www.ebay.de/itm/177832599402) - 22 eur
+    - [Aliness, Lactoferrin, LFS 90%, 100 mg, 60 Kapseln](https://www.ebay.de/itm/397910762858) - 24 EUR - MedpakShop@ebay
+  - Guarana ("slow coffee")
+    - [Haya Labs, Guarana, 900 mg, 60 Tabletten](https://www.ebay.de/itm/398443572475) - 9 EUR - MedpakShop@ebay
+  - Korean Ginseng tablets
+    - [Koreanischer Ginseng 350 mg Tab – Energie, Fokus, Vitalität, Ginsenoside Support](https://www.ebay.de/itm/155279204628?var=455476041597) - 11 eur
 - solar power
   - [SUNNIVA® Solarmodul Solarpanel FULL BLACK Bifacial Bifazial Glas/Glas 460 Watt](https://www.ebay.de/itm/236103596283?var=536639413125) - 350 eur
     - todo: solar panel roof mounting kit
