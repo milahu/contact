@@ -191,7 +191,7 @@ https://smp9.simplex.im/a#BZQVOpa_87XvP5JgtsIOOg8j1dq-OEG6M48VoHOd8hw
 ## telegram
 
 i hate telegram for its [anti-features](https://github.com/milahu/telegram-chat-recorder)...
-but here you go:
+but if youre too stupid for [XMPP](#xmpp), here you go:
 
 ```
 +4915172059978
