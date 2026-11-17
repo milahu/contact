@@ -174,7 +174,13 @@ chat over tor
 ## simplex
 
 i dont like the complexity of the [simplex](https://github.com/simplex-chat/simplex-chat) protocol...
-see also [SimpleX: Eindrücke vom Messenger ohne Identifier](https://www.kuketz-blog.de/simplex-eindruecke-vom-messenger-ohne-identifier/)
+see also
+
+- [SimpleX: Eindrücke vom Messenger ohne Identifier](https://www.kuketz-blog.de/simplex-eindruecke-vom-messenger-ohne-identifier/)
+- [Possibility of detection that user is using SimpleX due to the use of ALPN smp/1 simplex-chat#6006](https://github.com/simplex-chat/simplex-chat/issues/6006)
+- [Best SimpleX Settings? simplex-chat#5093](https://github.com/simplex-chat/simplex-chat/issues/5093)
+
+... but if youre too stupid for [XMPP](#xmpp), here you go:
 
 ```
 https://smp9.simplex.im/a#BZQVOpa_87XvP5JgtsIOOg8j1dq-OEG6M48VoHOd8hw
