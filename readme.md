@@ -153,7 +153,13 @@ aka: Jabber
 
 - desktop
   - [gajim](https://dev.gajim.org/gajim/gajim)
-- android - note: [android is a privacy nightmare](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones): "As of 2019, all available mobile phones have a proprietary baseband chip (GSM module, cellular modem). The modem is usually integrated with the system-on-a-chip and the memory. This presents security concerns; baseband attacks can read and alter data on the phone remotely."
+- android -
+  note: [android is a privacy nightmare](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones):
+  "As of 2019, all available mobile phones have a proprietary baseband chip (GSM module, cellular modem).
+  The modem is usually integrated with the system-on-a-chip and the memory.
+  This presents security concerns; baseband attacks can read and alter data on the phone remotely."
+  So, guess why all the "cool kids" want to have a "smartphone" (instead of a notebook computer or a desktop computer)...?
+  Spoiler: These "cool kids" are fashion victims of [secret services](https://en.wikipedia.org/wiki/List_of_intelligence_agencies) (CIA, MI6, Mossad...).
   - [monocles](https://codeberg.org/monocles/monocles_chat) - install via [f-droid](https://f-droid.org/)
 
 
