@@ -492,6 +492,12 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     aka "Fujitsu fi-7460",
     maximum document size: 304.8 x 431.8 mm (DIN A3 = 297 x 420 mm),
     [sane-backend: yes](http://www.sane-project.org/sane-backends.html#S-FUJITSU)
+- flatbed book scanner, DIN A4
+  - [Plustek OpticBook](https://geizhals.de/?fs=Plustek+OpticBook)
+    - [Plustek OpticBook 3600](https://geizhals.de/plustek-opticbook-3600-0105c-a112536.html) - 250 EUR, CCD sensor, 1200 dpi, pro: yes [sane backend](http://www.sane-project.org/sane-backends.html)
+    - [Plustek OpticBook 3800](https://geizhals.de/plustek-opticbook-3800-0205-a641866.html) - 300 EUR, CCD sensor, 1200 dpi, con: no [sane backend](http://www.sane-project.org/sane-backends.html)
+    - [Plustek OpticBook 3800L](https://geizhals.de/plustek-opticbook-3800l-0281-a2251880.html) - 300 EUR, CCD sensor, 1200 dpi, con: no [sane backend](http://www.sane-project.org/sane-backends.html)
+    - [Plustek OpticBook 4800](https://geizhals.de/plustek-opticbook-4800-0202-a641882.html) - 500 EUR, CCD sensor, 1200 dpi, con: no [sane backend](http://www.sane-project.org/sane-backends.html)
 - flatbed scanner, DIN A3
   - [Plustek OpticPro A320E](https://geizhals.de/plustek-opticpro-a320e-0309-a2521806.html) - 520 EUR, CCD sensor, 800 dpi, con: no [sane backend](http://www.sane-project.org/sane-backends.html)
 - monitor
