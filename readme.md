@@ -492,6 +492,8 @@ before you send anything, please ask if my [offline](#offline) address is up to 
     aka "Fujitsu fi-7460",
     maximum document size: 304.8 x 431.8 mm (DIN A3 = 297 x 420 mm),
     [sane-backend: yes](http://www.sane-project.org/sane-backends.html#S-FUJITSU)
+- flatbed scanner, DIN A3
+  - [Plustek OpticPro A320E](https://geizhals.de/plustek-opticpro-a320e-0309-a2521806.html) - 520 EUR, CCD sensor, 800 dpi, con: no [sane backend](http://www.sane-project.org/sane-backends.html)
 - monitor
   - [iiyama ProLite XB2491H-B1, 23.8"](https://geizhals.de/iiyama-prolite-xb2491h-b1-a3753706.html) - 100 EUR, IPS, 1920x1080 (Full HD), 12 Watt, 350cd/​m²
 - winter jacket: Condor Summit Softshell - black - XL
