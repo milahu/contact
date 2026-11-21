@@ -120,14 +120,19 @@ offline-first private p2p chat
 
 ## email
 
-note: i assume that all my email accounts are [censored](#censored),
+note: i assume that all [enemy-hosted](https://duckduckgo.com/?q=censorship+shadowbanning+mainstream+platforms+versus+self-hosted&ia=web) mailservers are [censored](#censored),
 so i prefer contact via chat
 ([XMPP](#xmpp),
 [ricochet](#ricochet),
 [session chat](#session-chat),
 ...)
 
-- milahu@milahu.duckdns.org - my homeserver, but still **censored by your email provider** (yes stupid normie, email censorship is a real problem!)
+- milahu@milahu.duckdns.org
+  - my self-hosted mailserver: [nixos-mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) running on my homeserver
+  - still **censored by your enemy-hosted mailserver**
+    - yes stupid normie, email censorship is a real problem!
+    - yes stupid normie, you are too stupid to run your own mailserver!
+    - no stupid normie, Android and Apple are just as [closed-source](https://duckduckgo.com/?q=closed-source+is+evil&ia=web) as Microsoft
 - milahu@gmail.com
 - milahu@protonmail.com
 - milahu450@gmail.com
